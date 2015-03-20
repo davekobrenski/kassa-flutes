@@ -6,7 +6,7 @@ The cumulative knowledge acquired by the traditional flutemaker through a lifeti
 
 <!-- <p>need to bridge...how do we move from simple & mystical to complex math and science?</p> -->
 
-Over the [course of many trips to Guinea, West Africa][(http://www.davekobrenski.com/djoliba-crossing/)[1], I had the opportunity to study with a master craftsman who was renowned throughout the region for his flute-making. As an apprentice, I learned to make (and play) my own Fulani flutes.
+Over the [course of many trips to Guinea, West Africa][1], I had the opportunity to study with a master craftsman who was renowned throughout the region for his flute-making. As an apprentice, I learned to make (and play) my own Fulani flutes.
 
 <!-- [say more about this experience and bridge into next section] ...-->
 
