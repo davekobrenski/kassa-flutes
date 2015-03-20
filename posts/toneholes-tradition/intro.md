@@ -1,8 +1,3 @@
-<p class="highlight-text bg-info">
-	<i class="fa fa-question-circle"></i>
-	This article/resource is a work in progress, but the charts and tools towards the bottom are pretty functional&hellip; — <em>Dave</em>
-</p>
-			
 <p class="lead">One of the biggest challenges in flute design and construction is the accurate placement of each tonehole to produce the desired notes and scale. The <em>Fulani Flute</em> (or <em>tambin</em>), a beautiful and deceptively complex flute found in parts of West Africa, is no exception.</p>
 
 Master craftsmen in West Africa, however, accomplish this feat with surprising accuracy and consistency, without the aid of advanced measurement tools, tuners, or mathematics. Skilled artisans, they rely heavily on intuition, and often utilize nothing but their own fingers as “measuring sticks” — without paper and pen, the relationships of the instrument to their own arms and fingers are memorized, so that specific ratios can be reproduced again in future efforts. Having honed their skills with a lifetime of musical immersion, they fine-tune the pitch of their instruments by ear until the flute can sing back to them the very songs they grew up with.
