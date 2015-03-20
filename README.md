@@ -1,2 +1,5 @@
-# kassa-flutes
-Content for the KF public website
+##Kassa Flutes
+
+An experiement in using GitHub and the GitHub API, combined with [StackEdit](https://stackedit.io), to edit and manage static content for a website.
+
+<http://kassaflutes.com>
