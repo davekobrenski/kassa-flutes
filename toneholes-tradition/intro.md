@@ -1,22 +1,46 @@
-Sometime between 40,000 and 45,000 years ago, a group of early humans migrating out of Africa along the corridor of the Danube River valley carried with them a small but significant object: a flute. 
+Sometime between 40,000 and 45,000 years ago, a group of early humans on a migration route out of Africa, along the corridor of the Danube River valley, carried with them a small but significant object: a flute. 
 
-Carved from the bones of griffon vultures and containing five carefully-crafted finger holes, this instrument lay buried and forgotten, until recently, in the Swabian Jura mountain range of southwestern Germany. Discovered alongside numerous other artifacts in a cave adorned with figurative paintings, this flute tells us a great many things about the migration of early humans and their technological — and cultural — innovations. One thing, in particular, is now clear: during their migration from Africa into Europe as early as 40,000 years ago, our ancestors were _already_ making music.
+Carved from the bone of a griffon vulture with five carefully crafted finger holes, this instrument lay buried and forgotten for tens of thousands of years — until recently, when it was discovered in the cavernous halls of the Hohle Fels Cave in the Swabian Jura mountain range of southwestern Germany. 
+
+The oldest yet of a series of similar flutes discovered in the region, the _Hohle Fels flute_ tells us many things about the cultural innovations of early humans. In particular, one important thing is now clear: during their migration from Africa into Europe as early as 40,000 years ago, our ancestors were already making music along the way.
 
 <img src="http://kassaflutes.com/images/ancient-flute.jpg" alt="Ancient flute" class="img-responsive">
 
 ###Origins of the flute
 
-Hohle Fels flute
+Radiocarbon dating of artifacts like the flute found in the Hohle Fels cave provides us with significant new insight into our collective past — important for piecing together the chronology of our common story, the tale of how we came to be.
+
+What intrigues me most, though, about the discovery of this instrument is what it tells us about the minds of our ancestors, and their ability to express themselves creatively — both symbolically through art, and through the powerful act of communal music making. Along with other objects that have been uncovered from the same time period — exquisitely sculpted figurines, engraved drawings, and figurative cave paintings, to name a few — the Hohle Fels flute illustrates that the minds of the ancients were indeed capable of a high level of thought and expression. But it also inspires questions about what was important to our ancestors as people: what fundamental need or yearning inspired its creation, and what thought process went into its construction? What technical knowledge did the ancient flutemaker possess, and through what methodology of observation and trial were those skills acquired?
+
+As for the instrument's musical capabilities, specific measurements of the flute — its length, column diameter, and toneholes — can yield a good approximation of the tonal scale that it would produce, but we can only wonder about the actual music that was played on it. For what melodies was it intended? What was the effect on the listener of its songs, as they reverberated through the ancient concert chambers of hillside caves? 
+
+While bone and rock can survive the ravages of time, a song leaves its footprint only on the minds of those who witness its performance. In many ways, this is the enigma of our past: science can only tell us so much about the moment in time that an artifact represents; the rest is left to our imagination.
+
+***
+
+
+
+
+What intrigues me most, though, about the discovery of this instrument is what it tells us about the minds of our ancestors, and their ability to express themselves creatively — both symbolically through art, and through the powerful act of communal music making. 
+
+This, and other objects that have been uncovered from the same time period — exquisitely sculpted figurines, engraved drawings, and figurative cave paintings, to name a few — illustrate that the minds of the ancients were capable of a high level of thought and expression indeed...much like our own modern minds. 
+
+The cliche notion of prehistoric cave dwellers grunting while wielding clubs gets replaced with an image of a somewhat more sophisticated lot, capable of using creative means to understand, explore, celebrate, and grieve. This is not to say that everyone was an artist, but that the capability existed — and was, in fact, used to create art (and presumably music) with an aesthetic value that could be appreciated on its own terms even today.
+
+Some people may ask, "So what?" What connection can we draw from this ancient heritage of cultural expression to the present time? I believe it is this: that our own psyche as human beings today has been shaped by the presence of art and music for millennia, inextricable from our existence and survival on earth, since time out of mind. It is a critical part of what always did — and still does — make us who we are. To neglect it is to deny a part of ourselves. 
+
+Each one of us comes into the world with the inherent capability to create, and the inclination to inquire, explore, and experiment — and even fail — as part of the process of learning. So why do we see some people as being more creative than others? It's that some of us _continue to use_ that penchant for creativity more than others. Those seen as innovators were not born with more or less of a _capability_ to create, but simply _didn't stop_ using it, and were not afraid to fail in the process.
+
+
+
+
+***
 
 Origins: bone survives, but what about tambin? Wood flutes. Wind blowing through vines? If they were creating flutes, one would think they had songs they also sung.
 
 Complexity of music: Lancine teaching himself to play music. "Allah gave it to me"
 
-Its recent discovery also inspires questions about the mind of our ancient ancestors: what fundamental need or yearning inspired its creation, and what thought process went into its construction? What technical knowledge did the ancient flutemaker possess, and through what methodology of observation and trial were those skills acquired? 
-
-As for the instrument's musical capabilities, specific measurements of the flute — its length, column diameter, and toneholes — can yield an approximation of the tonal scale that it would produce, but we can only wonder about the actual music that was played on it. For what melodies was it intended? What was the effect on the listener of its songs, as they reverberated through the ancient concert chambers of hillside caves? While bone and rock can survive the ravages of time, a song leaves its footprint only on the minds of those who witness its performance. In many ways, this is the enigma of our past: science can only tell us so much about the moment in time that an artifact represents; the rest is left to our imagination.
-
-
+***
 
 ###Understanding the Flute
 
