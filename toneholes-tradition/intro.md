@@ -1,6 +1,6 @@
 Sometime between 40,000 and 45,000 years ago, a group of early humans on a migration route out of Africa, along the corridor of the Danube River valley, carried with them a small but significant object: a flute. 
 
-Carved from the bone of a griffon vulture with five carefully crafted finger holes, this instrument lay buried and forgotten for tens of thousands of years — until recently, when it was discovered in the cavernous halls of the Hohle Fels Cave in the Swabian Jura mountain range of southwestern Germany. 
+Carved from the bone of a griffon vulture, with five carefully crafted finger holes, this instrument lay buried and forgotten for tens of thousands of years — until recently, when it was discovered in the cavernous halls of the Hohle Fels Cave in the Swabian Jura mountain range of southwestern Germany. 
 
 The oldest yet of a series of similar flutes discovered in the region, the _Hohle Fels flute_ tells us many things about the cultural innovations of early humans. In particular, one important thing is now clear: during their migration from Africa into Europe as early as 40,000 years ago, our ancestors were already making music along the way.
 
@@ -12,19 +12,20 @@ Radiocarbon dating of artifacts like the flute found in the Hohle Fels cave prov
 
 What intrigues me most, though, about the discovery of this instrument is what it tells us about the minds of our ancestors, and their ability to express themselves creatively — both symbolically through art, and through the powerful act of communal music making. Along with other objects that have been uncovered from the same time period — exquisitely sculpted figurines, engraved drawings, and figurative cave paintings, to name a few — the Hohle Fels flute illustrates that the minds of the ancients were indeed capable of a high level of thought and expression. But it also inspires questions about what was important to our ancestors as people: what fundamental need or yearning inspired its creation, and what thought process went into its construction? What technical knowledge did the ancient flutemaker possess, and through what methodology of observation and trial were those skills acquired?
 
-As for the instrument's musical capabilities, specific measurements of the flute — its length, column diameter, and toneholes — can yield a good approximation of the tonal scale that it would produce, but we can only wonder about the actual music that was played on it. For what melodies was it intended? What was the effect on the listener of its songs, as they reverberated through the ancient concert chambers of hillside caves? 
+As for the instrument's musical capabilities, specific measurements of the flute — its length, column diameter, and toneholes — can yield a good approximation of the tonal scale that it would produce, but we can only wonder about the actual music that was played on it. For what melodies was it intended? What was the effect on the listener of its songs, reverberating through the ancient concert chambers of hillside caves? 
 
 While bone and rock can survive the ravages of time, a song leaves its footprint only on the minds of those who witness its performance. In many ways, this is the enigma of our past: science can only tell us so much about the moment in time that an artifact represents; the rest is left to our imagination.
 
 ***
 
+Origins: bone survives, but what about tambin? Wood flutes. Wind blowing through vines? If they were creating flutes, one would think they had songs they also sung.
+
+Complexity of music: Lancine teaching himself to play music. "Allah gave it to me"
 
 
+***
 
-What intrigues me most, though, about the discovery of this instrument is what it tells us about the minds of our ancestors, and their ability to express themselves creatively — both symbolically through art, and through the powerful act of communal music making. 
-
-This, and other objects that have been uncovered from the same time period — exquisitely sculpted figurines, engraved drawings, and figurative cave paintings, to name a few — illustrate that the minds of the ancients were capable of a high level of thought and expression indeed...much like our own modern minds. 
-
+[do we need this stuff??]  
 The cliche notion of prehistoric cave dwellers grunting while wielding clubs gets replaced with an image of a somewhat more sophisticated lot, capable of using creative means to understand, explore, celebrate, and grieve. This is not to say that everyone was an artist, but that the capability existed — and was, in fact, used to create art (and presumably music) with an aesthetic value that could be appreciated on its own terms even today.
 
 Some people may ask, "So what?" What connection can we draw from this ancient heritage of cultural expression to the present time? I believe it is this: that our own psyche as human beings today has been shaped by the presence of art and music for millennia, inextricable from our existence and survival on earth, since time out of mind. It is a critical part of what always did — and still does — make us who we are. To neglect it is to deny a part of ourselves. 
@@ -32,13 +33,6 @@ Some people may ask, "So what?" What connection can we draw from this ancient he
 Each one of us comes into the world with the inherent capability to create, and the inclination to inquire, explore, and experiment — and even fail — as part of the process of learning. So why do we see some people as being more creative than others? It's that some of us _continue to use_ that penchant for creativity more than others. Those seen as innovators were not born with more or less of a _capability_ to create, but simply _didn't stop_ using it, and were not afraid to fail in the process.
 
 
-
-
-***
-
-Origins: bone survives, but what about tambin? Wood flutes. Wind blowing through vines? If they were creating flutes, one would think they had songs they also sung.
-
-Complexity of music: Lancine teaching himself to play music. "Allah gave it to me"
 
 ***
 
@@ -53,17 +47,6 @@ A variety of complicated factors, including the...
 
 * * *
 
-[perhaps this section goes at end, to sum up?]
-Improved scientific radiocarbon dating of artifacts like the ancient flute found in the Hohle Fels cave provides us with significant new insight into our collective past. What intrigues me most, though, about the discovery of this instrument is what it tells us about the minds of our ancestors, and their ability to express themselves creatively — both symbolically through art, and through the powerful act of communal music making. This, and other objects from the same time period — exquisitely sculpted figurines, engraved drawings, and more flutes made from mammoth ivory, to name a few — illustrate that the ancient mind was capable of a high level of thought and expression indeed...much like our own minds. The cliche notion of prehistoric cave dwellers grunting while wielding clubs gets replaced with an image of a somewhat more sophisticated lot, capable of using creative means to understand, explore, celebrate, and grieve. This is not to say that everyone was an artist, but that the capability existed — and was, in fact, used to create art (and presumably music) with an aesthetic value that could be appreciated on its own terms even today.
-
-Some people may ask, "So what?" What connection can we draw from this ancient heritage of cultural expression to the present time? I believe it is this: that our own psyche as human beings today has been shaped by the presence of art and music for millennia, inextricable from our existence and survival on earth, since time out of mind. It is a critical part of what always did — and still does — make us who we are. To neglect it is to deny a part of ourselves. 
-
-Each one of us comes into the world with the inherent capability to create, and the inclination to inquire, explore, and experiment — and even fail — as part of the process of learning. So why do we see some people as being more creative than others? It's that some of us _continue to use_ that penchant for creativity more than others. Those seen as innovators were not born with more or less of a _capability_ to create, but simply _didn't stop_ using it, and were not afraid to fail in the process.
-[perhaps this is the end?]
-
-* * *
-
-
 
 Perhaps the greatest challenge in woodwind design and construction is the accurate placement of each tonehole to produce the desired notes and scale. 
 Building a _Fulani Flute_ (or _tambin_) — a beautiful and deceptively complex flute found in parts of West Africa — is no exception.
@@ -72,7 +55,10 @@ Traditional flutemakers in West Africa, however, accomplish this feat with surpr
 
 The cumulative knowledge acquired by the traditional flutemaker through a lifetime of experimentation and training is impressive. Equally as fascinating, though, is how the simple, raw materials from which this ancient woodwind is built seem to belie the underlying complexity of the physics behind it. Fashioned from a woody vine found along the banks of the Niger River, the _tambin_ features just three holes, and an embouchure sculpted from black beeswax. Adornment with leather, rope, and cowrie shells completes the aesthetic of an object which, born of the earth, carries a significance beyond its primary function. No child's toy, in the skilled hands of the _fula-fola_ these enchanting flutes produce 2½ octaves via four distinct registers, and are capable of the finest subtleties of musical expression. That the living breath of the player awakens elements of wood and earth to resonate into sacred song gives the flutes a place in the realm of the mystical — both for those who play it, and for those who are transported by its sounds.
 
-<!-- need to bridge...how do we move from simple & mystical to complex math and science? -->
+<!-- need to bridge...how do we move from simple & mystical to complex math and science? 
+talk about: the evolution of flutemaking, and wanting to be part of just another step in the advancement blah blah etc
+
+-->
 
 Over the [course of many trips to Guinea, West Africa][1], I had the opportunity to study with a master craftsman who was renowned throughout the region for his flute-making. As an apprentice, I learned to make (and play) my own Fulani flutes.
 
