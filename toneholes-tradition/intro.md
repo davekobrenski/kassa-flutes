@@ -1,6 +1,6 @@
 Sometime between 40,000 and 45,000 years ago, a group of early humans migrating out of Africa along the corridor of the Danube River valley carried with them a small but significant object: a flute. 
 
-Carved from the bones of griffon vultures and containing five carefully crafted finger-holes, this instrument lay buried and forgotten, until recently, in the Swabian Jura mountain range of southwestern Germany. Discovered alongside numerous other artifacts in a cave adorned with figurative paintings, this flute tells us a great many things about the migration of early humans and their technological — and cultural — innovations. One thing, in particular, is now clear: during their migration from Africa into Europe as early as 40,000 years ago, our ancestors were _already_ making music.
+Carved from the bones of griffon vultures and containing five carefully-crafted finger holes, this instrument lay buried and forgotten, until recently, in the Swabian Jura mountain range of southwestern Germany. Discovered alongside numerous other artifacts in a cave adorned with figurative paintings, this flute tells us a great many things about the migration of early humans and their technological — and cultural — innovations. One thing, in particular, is now clear: during their migration from Africa into Europe as early as 40,000 years ago, our ancestors were _already_ making music.
 
 <img src="http://kassaflutes.com/images/ancient-flute.jpg" alt="Ancient flute" class="img-responsive">
 
