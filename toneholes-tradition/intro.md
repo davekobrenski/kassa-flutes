@@ -4,7 +4,7 @@ Master craftsmen in West Africa, however, accomplish this feat with surprising a
 
 The cumulative knowledge acquired by the traditional flutemaker through a lifetime of experimentation and training is impressive. Equally as fascinating, though, is how the simple, raw materials from which this ancient woodwind is built seem to belie the underlying complexity of the physics behind it. Fashioned from a woody vine found along the banks of the Niger River, the _tambin_ features just three holes, and an embouchure sculpted from black beeswax. Adornment with leather, rope, and cowrie shells completes the aesthetic of an object which, born of the earth, carries a significance beyond its primary function. No child’s toy, in the skilled hands of the _fula-fola_ these enchanting flutes produce 2½ octaves via four distinct registers, and are capable of the finest subtleties of musical expression. That the living breath of the player awakens elements of wood and earth to resonate into sacred song gives the flutes a place in the realm of the mystical — both for those who play it, and for those who are transported by its sounds.
 
-<!-- <p>need to bridge...how do we move from simple & mystical to complex math and science?</p> -->
+<!-- need to bridge...how do we move from simple & mystical to complex math and science? -->
 
 Over the [course of many trips to Guinea, West Africa][1], I had the opportunity to study with a master craftsman who was renowned throughout the region for his flute-making. As an apprentice, I learned to make (and play) my own Fulani flutes.
 
