@@ -1,32 +1,32 @@
-Sometime between 40-45,000 years ago, a group of early humans migrating out of Africa along the corridor of the Danube River valley carried with them a small but significant object: a flute. 
+Sometime between 40,000 and 45,000 years ago, a group of early humans migrating out of Africa along the corridor of the Danube River valley carried with them a small but significant object: a flute. 
 
-Carved from bone and containing five finger holes, this instrument lay buried and forgotten — until recently — in what is now southwestern Germany. Discovered alongside examples of figurative art in a cave adorned with paintings, this flute tells us a great many things about the migration of early humans and their technological innovations — as well as giving us some clue to the beginnings of art and music. One thing, in particular, is now clear: as they migrated from Africa into Europe, early humans were making music as early as 40,000 year ago.
+Carved from bone and containing five finger holes, this instrument lay buried and forgotten, until recently, in what is now southwestern Germany. Discovered alongside numerous other artifacts in a cave adorned with figurative paintings, this flute tells us a great many things about the migration of early humans and their technological — and cultural — innovations. One thing, in particular, is now clear: during their migration from Africa into Europe as early as 40,000 years ago, our ancestors were making music.
 
 <img src="http://kassaflutes.com/images/ancient-flute.jpg" alt="Ancient flute" class="img-responsive">
 
-Though its radiocarbon testing provides scientists with significant new information about our past, the recent discovery of this ancient flute also awakens the artistic mind with questions: what thought process went into its construction? What knowledge did the ancient flutemaker possess, and through what methodology of observation and trial were the skills acquired? 
-While specific measurements of the flute — its length, column diameter, and toneholes — can yield an approximation of the musical scale that would be produced, we can only wonder about the actual music that was played on it. What melodies was it intended to play that might have reverberated through the ancient concert chambers of hillside caves? While bone and rock can survive the ravages of time, a song leaves its footprint only on the minds of those who witness its performance. In many ways, this is the enigma of our past: science can only tell us so much about the moment in time that an artifact represents; the rest is left to our imagination.
+Scientific radiocarbon dating of this ancient flute provides us with significant new information about our collective past — but what intrigues me most is the origins of this instrument and its cultural importance as an object that has been present in the human psyche now for many millennia. 
+
+Origins: bone survives, but what about tambin? Wood flutes. Wind blowing through vines? If they were creating flutes, one would think they had songs they also sung.
+
+Complexity of music: Lancine teaching himself to play music. "Allah gave it to me"
+
+Its recent discovery also inspires questions about the mind of our ancient ancestors: what fundamental need or yearning inspired its creation, and what thought process went into its construction? What technical knowledge did the ancient flutemaker possess, and through what methodology of observation and trial were those skills acquired? 
+
+As for the instrument's musical capabilities, specific measurements of the flute — its length, column diameter, and toneholes — can yield an approximation of the tonal scale that it would produce, but we can only wonder about the actual music that was played on it. For what melodies was it intended? What was the effect on the listener of its songs, as they reverberated through the ancient concert chambers of hillside caves? While bone and rock can survive the ravages of time, a song leaves its footprint only on the minds of those who witness its performance. In many ways, this is the enigma of our past: science can only tell us so much about the moment in time that an artifact represents; the rest is left to our imagination.
+
+
 
 ###Understanding the Flute
 
 Despite being one of the world's oldest types of musical instrument, the flute is also one of the most difficult to comprehend, in terms of the physics that allow it to operate. Perhaps moreso than any other instrument, the flute embodies the physical properties of sound itself: the shape and design of the flute must accommodate the actual soundwaves moving through air to produce notes. We have all at some point experienced blowing across the top of a bottle, producing a volume of sound at a specific pitch, but how does this happen?
 
 the player affecting directly the soundwave as it resonates through air
-
-
 air jet vibrating resonating
-
-A variety of complicated factors, including the 
+A variety of complicated factors, including the...
 
 
 Perhaps the greatest challenge in woodwind design and construction is the accurate placement of each tonehole to produce the desired notes and scale. 
-
-
- 
-
 Building a _Fulani Flute_ (or _tambin_) — a beautiful and deceptively complex flute found in parts of West Africa — is no exception.
-
-Many factors go into
 
 Traditional flutemakers in West Africa, however, accomplish this feat with surprising accuracy and consistency, without the aid of advanced measurement tools, tuners, or mathematics. Skilled artisans, they rely heavily on intuition, and often utilize nothing but their own fingers as "measuring sticks" — without paper and pen, the relationships of the instrument to their own arms and fingers are memorized, so that specific ratios can be reproduced again in future efforts. Having honed their skills with a lifetime of musical immersion, they fine-tune the pitch of their instruments by ear until the flute can sing back to them the very songs they grew up with.
 
