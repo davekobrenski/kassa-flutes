@@ -4,11 +4,9 @@ Carved from the bones of griffon vultures and containing five carefully-crafted 
 
 <img src="http://kassaflutes.com/images/ancient-flute.jpg" alt="Ancient flute" class="img-responsive">
 
-Improved scientific radiocarbon dating of artifacts like this ancient flute provides us with significant new insight into our collective past. What intrigues me most, though, about the discovery of this instrument is what it tells us about the minds of our ancestors, and their ability to express themselves creatively — both symbolically through art, and through the powerful act of communal music making. This, and other objects from the same time period — exquisitely sculpted figurines, engraved drawings, and more flutes made from mammoth ivory, to name a few — illustrate that the ancient mind was capable of a high level of thought and expression indeed...much like our own minds. The cliche notion of prehistoric cave dwellers grunting while wielding clubs gets replaced with an image of a somewhat more sophisticated lot, capable of using creative means to understand, explore, celebrate, and grieve. This is not to say that everyone was an artist, but that the capability existed — and was, in fact, used to create art (and presumably music) with an aesthetic value that could be appreciated on its own terms even today.
+###Origins of the flute
 
-Some people may ask, "So what?" What connection can we draw from this ancient heritage of cultural expression to the present time? I believe it is this: that our own psyche as human beings today has been shaped by the presence of art and music for millennia, inextricable from our existence and survival on earth, since time out of mind. It is a critical part of what always did — and still does — make us who we are. To neglect it is to deny a part of ourselves. Each one of us comes into the world with the inherent capability to create, and the inclination to inquire, explore, and experiment — and even fail — as part of the process of learning. So why do we see some people as being more creative than others? It's that some of us _continue to use_ that penchant for creativity more than others. Those seen as innovators were not born with more or less of a _capability_ to create, but simply _didn't stop_ using it, and were not afraid to fail in the process.
-
-
+Hohle Fels flute
 
 Origins: bone survives, but what about tambin? Wood flutes. Wind blowing through vines? If they were creating flutes, one would think they had songs they also sung.
 
@@ -27,6 +25,20 @@ Despite being one of the world's oldest types of musical instrument, the flute i
 the player affecting directly the soundwave as it resonates through air
 air jet vibrating resonating
 A variety of complicated factors, including the...
+
+
+* * *
+
+[perhaps this section goes at end, to sum up?]
+Improved scientific radiocarbon dating of artifacts like the ancient flute found in the Hohle Fels cave provides us with significant new insight into our collective past. What intrigues me most, though, about the discovery of this instrument is what it tells us about the minds of our ancestors, and their ability to express themselves creatively — both symbolically through art, and through the powerful act of communal music making. This, and other objects from the same time period — exquisitely sculpted figurines, engraved drawings, and more flutes made from mammoth ivory, to name a few — illustrate that the ancient mind was capable of a high level of thought and expression indeed...much like our own minds. The cliche notion of prehistoric cave dwellers grunting while wielding clubs gets replaced with an image of a somewhat more sophisticated lot, capable of using creative means to understand, explore, celebrate, and grieve. This is not to say that everyone was an artist, but that the capability existed — and was, in fact, used to create art (and presumably music) with an aesthetic value that could be appreciated on its own terms even today.
+
+Some people may ask, "So what?" What connection can we draw from this ancient heritage of cultural expression to the present time? I believe it is this: that our own psyche as human beings today has been shaped by the presence of art and music for millennia, inextricable from our existence and survival on earth, since time out of mind. It is a critical part of what always did — and still does — make us who we are. To neglect it is to deny a part of ourselves. 
+
+Each one of us comes into the world with the inherent capability to create, and the inclination to inquire, explore, and experiment — and even fail — as part of the process of learning. So why do we see some people as being more creative than others? It's that some of us _continue to use_ that penchant for creativity more than others. Those seen as innovators were not born with more or less of a _capability_ to create, but simply _didn't stop_ using it, and were not afraid to fail in the process.
+[perhaps this is the end?]
+
+* * *
+
 
 
 Perhaps the greatest challenge in woodwind design and construction is the accurate placement of each tonehole to produce the desired notes and scale. 
