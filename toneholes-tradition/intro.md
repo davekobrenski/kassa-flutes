@@ -4,7 +4,7 @@ Sometime between 40,000 and 45,000 years ago, a group of early humans on a migra
 
 Carved from the bone of a griffon vulture, with five carefully crafted finger holes, this instrument lay buried and forgotten for tens of thousands of years — until recently, when it was discovered in the cavernous halls of the Hohle Fels Cave in the Swabian Jura mountain range of southwestern Germany. 
 
-The oldest yet of a series of similar flutes found in the region — and currently the oldest known musical instruments in the world — the _Hohle Fels flute_ sheds light on the lives and cultural innovations of early humans. One thing, in particular, is worth emphasizing: during their migration from Africa into Europe as early as 40,000 years ago, our ancestors were already making music.
+The oldest yet of a series of similar flutes found in the region — which represent the oldest known musical instruments in the world — the _Hohle Fels flute_ sheds light on the lives and cultural innovations of early humans. One thing, in particular, is worth emphasizing: during their migration from Africa into Europe as early as 40,000 years ago, our ancestors were already making music.
 
 <img src="http://kassaflutes.com/images/ancient-flute.jpg" alt="Ancient flute" class="img-responsive">
 
