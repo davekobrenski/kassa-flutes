@@ -64,6 +64,8 @@ This is the intellectual potential that is represented by the artifacts discover
 
 As we move forward with a better understanding of our place in this grand continuum, perhaps we in the modern world can humble ourselves enough to overcome the cultural conceit that we are somehow the pinnacle of human progress. In doing so, may we become open enough to appreciate our cultural differences instead of dwell on them, and truly celebrate the wonders of the human legacy.
 
+*— Dave Kobrenski*  
+March 22, 2015
 
 
 [1]:http://www.davekobrenski.com/djoliba-crossing/
