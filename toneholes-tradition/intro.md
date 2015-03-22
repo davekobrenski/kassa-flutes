@@ -23,7 +23,7 @@ While bone and rock can survive the ravages of time, a song leaves its footprint
 
 ***
 
-My interest in the flutes of indigenous peoples around the world began during my travels in West Africa, where I had the opportunity to study the _tambin_, the unique three-holed flute of the Fulani and Malinké people of Guinea. 
+My interest in the flutes of indigenous peoples around the world began during [my travels in West Africa][1], where I had the opportunity to study the _tambin_, the unique three-holed flute of the Fulani and Malinké people of Guinea. 
 
 Constructed from a woody vine that is the flute's namesake, the _tambin_, or _Fula Flute_, likely originated with the Fulani people — one of the most widely dispersed ethnic groups in Africa, and the largest pastoral nomadic group in the world. The Fulani today live throughout West and Central Africa, with much of their population concentrated in the Fouta Djallon highlands of Guinea. Fulani culture dates back to at least the Neolithic era, with the most notable evidence of this being the resplendent treasury of rock art discovered in the Tassili n'Ajjer mountain range in Algeria — containing over 15,000 unique engravings and dating back to 6000 BC. 
 
@@ -64,7 +64,6 @@ This is the intellectual potential that is represented by the artifacts discover
 
 As we move forward with a better understanding of our place in this grand continuum, perhaps we in the modern world can humble ourselves enough to overcome the cultural conceit that we are somehow the pinnacle of human progress. In doing so, may we become open enough to appreciate our cultural differences instead of dwell on them, and truly celebrate the wonders of the human legacy.
 
-***
+
 
 [1]:http://www.davekobrenski.com/djoliba-crossing/
-[2]:http://windworld.com/products-page/books-cds/air-columns-and-toneholes-principles-for-wind-instrument-design/
