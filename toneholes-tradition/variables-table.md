@@ -1,3 +1,7 @@
+###Variables
+
+In order to properly calculate the placement of toneholes on a flute, several variables come into play. They are:
+
 <table class="table table-striped">
 				<tbody>
 					<tr>
