@@ -4,9 +4,15 @@ Sometime between 40,000 and 45,000 years ago, a group of early humans on a migra
 
 Carved from the bone of a griffon vulture, with five carefully crafted finger holes, this instrument lay buried and forgotten for tens of thousands of years — until recently, when it was discovered in the cavernous halls of the Hohle Fels Cave in the Swabian Jura mountain range of southwestern Germany. 
 
-The oldest yet of a series of similar flutes discovered in the region, the _Hohle Fels flute_ tells us many things about the cultural innovations of early humans. In particular, one important thing is now clear: during their migration from Africa into Europe as early as 40,000 years ago, our ancestors were already making music along the way.
+The oldest yet of a series of similar flutes found in the region, the _Hohle Fels flute_ tells us many things about the cultural innovations of early humans, but one thing stands out: during their migration from Africa into Europe as early as 40,000 years ago, our ancestors were already making music.
 
 <img src="http://kassaflutes.com/images/ancient-flute.jpg" alt="Ancient flute" class="img-responsive">
+
+Music, then — and in particular, the flute — have long been a part of the human psyche. We know now, from radiocarbon dating of artifacts like the flute found in the Hohle Fels cave, that the flute itself is likely the oldest type of musical instrument created by humans — and, that humans were making music with it much earlier in history than previously thought.
+
+Being a flute-player and flutemaker myself perhaps makes me biased, but this is fascinating stuff — and for more reasons than just that I happen to like flutes. The nature of the flute is as fundamental — and primal, if you will — as wind moving through reeds, but its unique power comes from the fact that what gives it voice is the living breath of the player, invoking it to resonate with sound. It's quite magical, when you think about it: the flutist conjuring into song the vital element of air. For the ancient flutemaker, though, to be endowed with the skill to manipulate the elements of bone, wood, and air into a device capable of such magic: to the ancients, this must have been significant.
+
+
 
 ###Origins of the flute
 
