@@ -10,42 +10,33 @@ The oldest yet of a series of similar flutes discovered in the region, the _Hohl
 
 ###Origins of the flute
 
-Discoveries such as the Hohle Fels flute provide us with valuable insight into our collective past — important for piecing together the chronology of our common story, the tale of how we all came to be. This story should be significant to anyone who cares about our future here on earth (or on any other planet we may yet inhabit), because, as we now know through the unraveling of our genetic lineage, the human story has been one continuum: we are all descendants of the same people that, some 65,000 years ago, forged their place in history when they began their trek out of Africa and, over the course of thousands of generations, settled the world.
+Discoveries such as the Hohle Fels flute provide us with valuable insight into our collective past — important for piecing together the chronology of our common story, the tale of how we all came to be. This story should be significant to anyone who cares about our future here on earth (or on any other planet we may yet inhabit), because, as we now know through the unraveling of our genetic lineage, the human story has been one continuum: we are all descendants of the same people that, some 65,000 years ago, forged their place in history when they began their trek out of Africa and, over the course of thousands of generations, settled the world. That continuum does not end with us.
 
 From the beginning, the human story has always been a social venture. We have never been alone in this world. Our ancestors walk beside us in every moment: their minds are our minds. Equally so, the future "us" walks beside us too, yet invisible but awaiting to spring forth from what we are now. It has never been truer when we say, "who we are is who we were" — and that will be equally true for people in the future. It's fascinating to think that we are ever in the process of becoming somebody's ancestors. We're writing that story, right now.
 
-What's equally intriguing is exploring what the Hohle Fels flute can tell us about the minds of our ancestors, and their tendency to want to express themselves creatively and intellectually — both symbolically through art, and through the powerful act of communal music making. Along with other objects that have been uncovered from the same time period — exquisitely sculpted figurines, engraved drawings, and figurative cave paintings, to name a few — the existence of the flute in the prehistoric record is symbolic proof that the minds of the ancients were indeed capable of a high level of thought and expression, and sought to explore that capacity. These people were not intellectually idle. 
+What's equally intriguing, then, is exploring what the Hohle Fels flute can tell us about the minds of our ancestors, and their tendency to want to express themselves creatively and intellectually — both symbolically through art, and through the powerful act of communal music making. Along with other objects that have been uncovered from the same time period — exquisitely sculpted figurines, engraved drawings, and figurative cave paintings, to name a few — the existence of the flute in the prehistoric record is symbolic proof that the minds of the ancients were indeed capable of a high level of thought and expression, and sought to explore that capacity. These people were not intellectually idle. 
 
-Why is all of this significant? Because it help us answer the question of _when_ the capacity for intellectual thought and creativity arose. This question is important because it has the opportunity to help us understand
+Why is all of this significant? Because it helps us answer the question of _when_ the capacity for intellectual thought and creativity arose. This question is important because it has the opportunity to help us come to terms with the myriad different cultures that have, and still do, exist alongside our own. The problem with answering this question, though, is that we tend to use the yardstick of our own culture's achievements to measure all others, using a comparison, for example, of our own technological progress as the gauge of whether another society has succeeded in becoming fully human. This is folly. If we can accept that all people share the same genetic lineage, then we must also accept that we share the same capacity for intellectual thought, creativity, and innovation. How we express that potential is simply a matter of choice. What results from that choice _is_ culture. 
 
- level the playing field and help us to understand 
+This is the intellectual potential that is represented by the flash of brilliance that is the art discovered in the Hohle Fels Cave, dating back some 40,000 years — proof that this potential existed even then. It reveals something quite extraordinary about the kinds of things that became important, early on, to the development of modern humans on a fundamental level — which factored into the growth of culture itself.
+
 
 overcome our own cultural conceit that we are somehow the pinnacle of human cultural progress.
 
-its important to realize that the capacity for intellectual thought has always existed, but culture is a matter of choice: what do we choose to do with it.
 
-The problem with answering this question is that we tend to use the yardstick of our own culture's achievements to measure all others. 
 
-— but it's folly to think that it is merely our technological achievements that define intellectual capacity. 
 
-Culture has always been about choice: what pursuit
 
-But it also reveals something about the kinds of things that became important, early on, to the development of modern humans on a fundamental level — factoring into the growth of culture itself.
 
-continuum
 
-were not intellectually idle - the same intellectual capacity
-
-"That means every single human society and culture, by definition, shares the same raw mental activity, the same intellectual capacity. And whether that raw genius is placed in service of technological wizardry or unraveling the complex thread of memory inherent in a myth is simply a matter of choice and cultural orientation"
 
 ... the birth of culture.
 collective memory.
 predicting the future
 social rules and habits
 why ancient wisdom matters in the modern world
-"Race has been exposed as a total fiction; the human genetic endowment is one continuum. We are all descendants of a handful of people who’ve walked out of Africa 65,000 years ago, and in 2,500 generations settled the whole world. But if we accept that we are all cut from the same genetic cloth, all cultures share the same genius. And whether that genius is placed into technological wizardry which has been our great achievement, or, by contrast, placed into the unraveling of complex threads of memory inherent in a myth is simply a matter of choice"
 
-“These peoples, these cultures, are not failed attempts at being us — they are unique answers to the fundamental question, ‘What does it mean to be human and alive?’”
+
 
 "celebrate the wonders of the human legacy"
 
