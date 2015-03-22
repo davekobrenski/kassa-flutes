@@ -8,7 +8,7 @@ The oldest yet of a series of similar flutes found in the region — which repre
 
 <img src="http://kassaflutes.com/images/ancient-flute.jpg" alt="Ancient flute" class="img-responsive">
 
-Music, then — and in particular, the flute — have long been a part of the human psyche. From radiocarbon dating of artifacts like the flute found in the Hohle Fels cave, we know that the flute itself is likely the oldest type of musical instrument created by humans — and, that humans were making music with it much earlier in history than previously thought.
+Music, then — and in particular, the flute — have long been a part of the human psyche. From radiocarbon dating of artifacts like the flute found in the Hohle Fels cave, we know that the flute itself is likely the oldest _type_ of musical instrument created by humans — and, that humans were making music with it much earlier in history than previously thought.
 
 Perhaps being a flute-player and maker myself makes me biased, but this is fascinating stuff — and for more reasons than just happening to like flutes. The the essence of the flute is as fundamental as wind moving through reeds, but its unique power comes from the fact that what _gives it voice_ is the living breath of the player, invoking it to resonate with sound. It's quite magical, when you think about it: the flutist conjuring into song the vital element of air. For the ancient flutemaker, though, to be endowed with the skill to manipulate elements of bone, wood, and air into a device capable of such magic: to the ancients, we can surmise, this must have been significant.
 
