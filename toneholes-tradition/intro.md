@@ -32,12 +32,25 @@ Constructed from a woody vine that is the flute's namesake, the _tambin_, or _Fu
 <img src="http://kassaflutes.com/images/Tassili-Algeria.jpg" alt="Tassili Desert Algeria" class="img-responsive">
 <span class="img-caption">"Tassili Desert Algeria" by <a href="http://www.flickr.com/photos/magharebia/5323128313/" target="_blank">magharebia</a>. Licensed under CC BY 2.0 via <a href="http://commons.wikimedia.org/wiki/File:Tassili_Desert_Algeria.jpg#/media/File:Tassili_Desert_Algeria.jpg" target="_blank">Wikimedia Commons</a></span>
 
-Across a half-dozen or so trips to Guinea, I was able to learn from several _fulafolas_ — masters of the _Fula flute_. In addition to studying much of the tambin's repertoire, I learned the traditional building techniques of this ancient flute from a Malinké man from the Kouroussa region of Guinea, in a village on the banks of the Niger River.
+Across a half-dozen or so trips to Guinea, I was able to learn from several _fulafolas_ — masters of the _Fula flute_. In addition to studying much of the tambin's repertoire, I learned the traditional building techniques of this ancient flute from a Malinké man from the Kouroussa region of Guinea, in a village on the banks of the Niger River. His name was Lancine Conde. Under his tutelage, I became his "little brother", and with more patience than I often deserved, he imparted his knowledge to me.
 
 There, along the mighty Niger, where it winds through low-lying countryside, the tambin vine grows in abundance. The vine itself is wood-like and hollow throughout, with sturdy outer walls, not unlike bamboo or rattan. As I found out, it is well-suited to flute building: its plentiful availability lends itself to experimentation, and its natural taper overcomes the problem of upper-register flatness that is inherent in cylindrical flutes. Both the embouchure and toneholes can be easily burned into the vine, without need for complicated tools. Being a transverse (side-blown) flute, the tambin incorporates a winged-style embouchure, which assists greatly in producing the flute's full range of 2½ octaves; these raised wings are constructed out of a locally available type of black beeswax (referred to elsewhere in the world as bee _cerumin_). The cerumin can be heated and formed to suit the player's needs, and when it dries, it hardens to a solid mass and adheres to the vine due to its high propolis content.
 
+One of the biggest challenges in woodwind design and construction is the accurate placement of each tonehole to produce the desired notes and scale. The tambin is no exception. Traditional flutemakers in West Africa such as Lancine, however, accomplish this feat with surprising accuracy and consistency, without the aid of advanced measurement tools, tuners, or mathematics. Skilled artisans, they rely heavily on intuition, and often utilize nothing but their own fingers as "measuring sticks" — without paper and pen, the relationships of the instrument to their own arms and fingers are memorized, so that specific ratios can be reproduced again in future efforts. Having honed their skills with a lifetime of musical immersion, they fine-tune the pitch of their instruments by ear until the flute can sing back to them the very songs they grew up with.
 
+The cumulative knowledge acquired by the traditional flutemaker through a lifetime of experimentation and training is impressive. Equally as fascinating, though, is how the simple, raw materials from which this ancient woodwind is built seem to belie the underlying complexity of the physics behind it. Adornment with leather, rope, and cowrie shells completes the aesthetic of an object which, born of the earth, carries a significance beyond its primary function. No child's toy, in the skilled hands of the _fulafola_ these enchanting flutes are capable of the finest subtleties of musical expression. That the living breath of the player awakens elements of wood and earth to resonate into sacred song gives the flutes a place in the realm of the mystical — both for those who play it, and for those who are transported by its sounds.
 
+***
+
+Back home in the States, I wanted to see just how feasible it would be to produce my own tambin-style flute. How complicated could it be? These were, after all, essentially the same type of flute that humans had been making out of bone, wood, and ivory for literally tens of thousands of years, if not more. Without Lancine there to coach me, I quickly realized that I was in for a humbling experience.
+
+An avid tinkerer, I decided to "refine" the process to make a flute that was more durable — it needed to survive the extreme cold of New England winters — with materials and tools that were, of course, available to me locally. Necessity, as well as my own innate curiosity, drove me to veer from the methods and materials of traditional West African flute-building, and to find out what was possible. New materials — having different tube diameters, wall thickness, and more — required different methods of determining tonehole placement...so I dug into the available literature on the science of woodwind instrument building.
+
+For three years I absorbed every bit of information I could find on the subject. Combining this with my experiences with Lancine in West Africa and a working knowledge of how these flutes were built, I produced dozens of prototypes in my workshop in northern New Hampshire. Numerous failed attempts preceded even the first remotely playable flute. A sad-looking pile of discarded flutes accumulated beneath my workbench — but every failed attempt revealed critical new information that spurred me onwards to try again, even if only to make new mistakes. In this manner, the tambin slowly began to reveal its secrets — not all at once, and not even every time — but the flutes I was now producing had begun to take on a character that were somehow richer, and assuredly more enjoyable to play. With patience, I found that subtle changes made big differences. I strove to perfect the shape, size, and angles of the embouchure. Toneholes grew larger and then smaller again on subsequent flutes, as I experimented with finding just the right ratios.
+
+Unbeknownst to me, through repeated trial and error, experimentation and failure, I had been moving through a passage of initiation similar to that which brings forth a traditional flute-maker in West Africa. I was no longer _copying_ a model of a flute, as I once had as an apprentice in our hot, dusty workshop in West Africa…but learning to _create_ one. In the process, I discovered something else quite unexpected: _how to learn_. It was the most important secret that the flute had revealed to me.
+
+All in all, it took over three years of concerted effort — and relying on mathematical equations, calipers, and electronic tuners — to finally produce a flute that I thought could rival the quality and playability of the flutes made by Lancine — who still uses only the most basic tools to produce instruments of unprecedented quality.
 
 
 ###Origins of the flute
@@ -68,46 +81,7 @@ predicting the future
 social rules and habits
 why ancient wisdom matters in the modern world
 
-
-
 "celebrate the wonders of the human legacy"
-
-and that played into the formation and growth of the subconscious mind.
-
-Music — and in particular, the flute — have long been a part of the human psyche. We know now, from radiocarbon dating of artifacts like the flute found in the Hohle Fels cave, that the flute itself is likely the oldest type of musical instrument created by humans — and that humans were making music  with it much earlier in history than previously thought. 
-
-Being such a venerable 
-
-The sound of the flute is as fundamental and elegant as wind moving through reeds, but that its voice comes from the breath of the player, invoking it to resonate with sound, gives it a certain power. It's quite magical, when you think about it: the flautist conjuring into song the vital element of air. For the ancient flutemaker, though, to be endowed with the skill to manipulate the elements of bone, wood, and air into a device capable of such magic: to the ancients, this must have been significant.
-
-It would be difficult, then, to understand human nature without attempting to understand the role that music played in the lives of our early ancestors.
-
-elegant invoke  summon conjur
-
-dynamic 
-venerable
-
-
-We know now, from radiocarbon dating of artifacts like the flute found in the Hohle Fels cave, that the flute itself is likely the oldest type of musical instrument created by humans, and that humans were making music much earlier in history than previously thought. It would be difficult, then, to understand human nature without attempting to understand the role that music played in the lives of our early ancestors.
-
-fundamental concepts for understanding human nature
-
- 
-
-
-During my travels in remote parts of West Africa, where I researched a little-known type of native flute referred to by the locals as _tambin_  — the traditional flute of the Fulani people — 
-
-Radiocarbon dating of artifacts like the flute found in the Hohle Fels cave provides us with significant new insight into our collective past — important for piecing together the chronology of our common story, the tale of how we came to be.
-
-What intrigues me most, though, about the discovery of this instrument is what it tells us about the minds of our ancestors, and their ability to express themselves creatively — both symbolically through art, and through the powerful act of communal music making. Along with other objects that have been uncovered from the same time period — exquisitely sculpted figurines, engraved drawings, and figurative cave paintings, to name a few — the Hohle Fels flute illustrates that the minds of the ancients were indeed capable of a high level of thought and expression. But it also inspires questions about the kinds of things that were important to early modern humans on a fundamental level: at what point in our human history did art and music become an integral part of our lives? 
-
-What need or yearning inspired its creation, and what thought process went into its construction? What technical knowledge did the ancient flutemaker possess, and through what methodology of observation and trial were those skills acquired?
-
-As for the instrument's musical capabilities, specific measurements of the flute — its length, column diameter, and toneholes — can yield a good approximation of the tonal scale that it would produce, but we can only wonder about the actual music that was played on it. For what melodies was it intended? What was the effect on the listener as its songs reverberated through the ancient concert chambers of hillside caves?  While bone and rock can survive the ravages of time, a song leaves its footprint only on the minds of those who witness its performance. In many ways, this is the enigma of our past: science can only tell us so much about the moment in time represented by an artifact; the rest is left to our imagination.
-
-***
-
-Origins: bone survives, but what about tambin? Wood flutes. Wind blowing through vines? If they were creating flutes, one would think they had songs they also sung.
 
 Complexity of music: Lancine teaching himself to play music. "Allah gave it to me"
 
@@ -125,47 +99,6 @@ Each one of us comes into the world with the inherent capability to create, and 
 
 ***
 
-###Understanding the Flute
-
-Despite being one of the world's oldest types of musical instrument, the flute is also one of the most difficult to comprehend, in terms of the physics that allow it to operate. Perhaps moreso than any other instrument, the flute embodies the physical properties of sound itself: the shape and design of the flute must accommodate the actual soundwaves moving through air to produce notes. We have all at some point experienced blowing across the top of a bottle, producing a volume of sound at a specific pitch, but how does this happen?
-
-the player affecting directly the soundwave as it resonates through air
-air jet vibrating resonating
-A variety of complicated factors, including the...
-
-
-* * *
-
-
-Perhaps the greatest challenge in woodwind design and construction is the accurate placement of each tonehole to produce the desired notes and scale. 
-Building a _Fulani Flute_ (or _tambin_) — a beautiful and deceptively complex flute found in parts of West Africa — is no exception.
-
-Traditional flutemakers in West Africa, however, accomplish this feat with surprising accuracy and consistency, without the aid of advanced measurement tools, tuners, or mathematics. Skilled artisans, they rely heavily on intuition, and often utilize nothing but their own fingers as "measuring sticks" — without paper and pen, the relationships of the instrument to their own arms and fingers are memorized, so that specific ratios can be reproduced again in future efforts. Having honed their skills with a lifetime of musical immersion, they fine-tune the pitch of their instruments by ear until the flute can sing back to them the very songs they grew up with.
-
-The cumulative knowledge acquired by the traditional flutemaker through a lifetime of experimentation and training is impressive. Equally as fascinating, though, is how the simple, raw materials from which this ancient woodwind is built seem to belie the underlying complexity of the physics behind it. Fashioned from a woody vine found along the banks of the Niger River, the _tambin_ features just three holes, and an embouchure sculpted from black beeswax. Adornment with leather, rope, and cowrie shells completes the aesthetic of an object which, born of the earth, carries a significance beyond its primary function. No child's toy, in the skilled hands of the _fula-fola_ these enchanting flutes produce 2½ octaves via four distinct registers, and are capable of the finest subtleties of musical expression. That the living breath of the player awakens elements of wood and earth to resonate into sacred song gives the flutes a place in the realm of the mystical — both for those who play it, and for those who are transported by its sounds.
-
-<!-- need to bridge...how do we move from simple & mystical to complex math and science? 
-talk about: the evolution of flutemaking, and wanting to be part of just another step in the advancement blah blah etc
-
--->
-
-Over the [course of many trips to Guinea, West Africa][1], I had the opportunity to study with a master craftsman who was renowned throughout the region for his flute-making. As an apprentice, I learned to make (and play) my own Fulani flutes.
-
-<!-- [say more about this experience and bridge into next section] ...-->
-
-Here in the States, I refined my process to make a flute that was more durable — it needed to survive the extreme cold of New England winters — with materials and tools that were available to me locally. Necessity, as well as my own innate curiosity, drove me to veer from the methods and materials of traditional West African flute-building, and to find out what was possible. Since new materials required different methods of determining tonehole placement, I dug into the available literature on the science of woodwind instrument building.
-
-For three years I absorbed every bit of information I could find on the subject. Combining this with my experiences in West Africa and a working knowledge of how these flutes were built, I produced dozens of prototypes in my workshop in northern New Hampshire. Numerous failed attempts preceded even the first remotely playable flute. A sad-looking pile of discarded flutes accumulated beneath my workbench — but every failed attempt revealed critical new information that spurred me onwards to try again, even if only to make new mistakes. In this manner, the _tambin_ slowly began to reveal its secrets — not all at once, and not even every time — but the flutes I was now producing had begun to take on a character that were somehow richer, and assuredly more enjoyable to play. With patience, I found that subtle changes made big differences. I strove to perfect the shape, size, and angles of the embouchure. Toneholes grew larger and then smaller again on subsequent flutes, as I experimented with finding just the right ratios.
-
-Unbeknownst to me, through repeated trial and error, experimentation and failure, I had been moving through a passage of initiation similar to that which brings forth a traditional flute-maker in West Africa. I was no longer _copying_ a model of a flute, as I once had as an apprentice in our hot, dusty workshop in Conakry...but learning to _create_ one. In the process, I discovered something else quite unexpected: _how to learn_. It was the most important secret that the flute had revealed to me.
-
-<p class="divider"><span class="flower db-deco"></span></p>
-
-What follows is a series of tools and charts I've developed over the course of my flute-making journey, to aid in the calculation of tonehole placement for a 3-hole Fulani Flute made from uniform diameter tube. While this "electronic worksheet" is the result of honing my process with many dozens of flutes, the ideas (and mathematic equations) are based largely on the formulas and principles outlined in [Bart Hopkin's _Air Columns and Toneholes: Principles for Wind Instrument Design_][2] — a fabulous resource for aspiring flutemakers and enthusiasts alike. That resource has proven to be invaluable to me numerous times as I searched for answers as to why a particular flute was slightly off, or while continuously striving to improve upon a prior prototype. I share this tool in the hopes that it may be of some benefit (or at least some interest) to someone else out there embarking on a similar path...
-
-###Variables
-
-In order to properly calculate the placement of toneholes on a flute, several variables come into play. They are:
 
 
 [1]:http://www.davekobrenski.com/djoliba-crossing/
