@@ -1,5 +1,3 @@
-#What we can learn from a 40,000 year old flute
-
 Sometime between 40,000 and 45,000 years ago, a group of early humans on a migration route out of Africa, along the corridor of the Danube River valley, carried with them a small but significant object: a flute. 
 
 Carved from the bone of a griffon vulture, with five carefully crafted finger holes, this instrument lay buried and forgotten for tens of thousands of years — until recently, when it was discovered in the cavernous halls of the Hohle Fels Cave in the Swabian Jura mountain range of southwestern Germany. 
