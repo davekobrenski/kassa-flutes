@@ -32,9 +32,9 @@ Constructed from a woody vine that is the flute's namesake, the _tambin_, or _Fu
 <img src="http://kassaflutes.com/images/Tassili-Algeria.jpg" alt="Tassili Desert Algeria" class="img-responsive">
 <span class="img-caption">"Tassili Desert Algeria" by <a href="http://www.flickr.com/photos/magharebia/5323128313/" target="_blank">magharebia</a>. Licensed under CC BY 2.0 via <a href="http://commons.wikimedia.org/wiki/File:Tassili_Desert_Algeria.jpg#/media/File:Tassili_Desert_Algeria.jpg" target="_blank">Wikimedia Commons</a></span>
 
-Across a half-dozen or so trips to Guinea, I was able to learn from several _fulafolas_ — masters of the _Fula flute_. In addition to studying much of the tambin's repertoire, I learned the traditional building techniques of this ancient flute from a Malinké man from the Kouroussa region of Guinea, in a village on the banks of the Niger River. His name was Lancine Conde. Under his tutelage, I became his "little brother", and with more patience than I often deserved, he imparted his knowledge to me.
+Across a half-dozen or so trips to Guinea, I was able to learn from several _fulafolas_ — masters of the _Fula flute_. In addition to studying much of the tambin's repertoire, I learned the traditional building techniques of this ancient flute from a Malinké man hailing from the Kouroussa region of Guinea, in a small village tucked away on a bend of the Niger River. His name was Lancine Conde. Under his tutelage, I became his "little brother", and with more patience than I often deserved, he imparted his knowledge to me.
 
-There, along the mighty Niger, where it winds through low-lying countryside, the tambin vine grows in abundance. The vine itself is wood-like and hollow throughout, with sturdy outer walls, not unlike bamboo or rattan. As I found out, it is well-suited to flute building: its plentiful availability lends itself to experimentation, and its natural taper overcomes the problem of upper-register flatness that is inherent in cylindrical flutes. Both the embouchure and toneholes can be easily burned into the vine, without need for complicated tools. Being a transverse (side-blown) flute, the tambin incorporates a winged-style embouchure, which assists greatly in producing the flute's full range of 2½ octaves; these raised wings are constructed out of a locally available type of black beeswax (referred to elsewhere in the world as bee _cerumin_). The cerumin can be heated and easily formed to suit the player's needs. Due to its high propolis content, when the cerumin dries, it hardens to a solid mass and adheres to the vine.
+There, along the mighty Niger, where it winds through low-lying countryside, the tambin vine grows in abundance. The vine itself is wood-like and hollow throughout, with sturdy outer walls, not unlike bamboo or rattan. As I found out, it is well-suited to flute building: its plentiful availability lends itself to experimentation, and its natural taper overcomes the problem of upper-register flatness that is inherent in cylindrical flutes. Both the embouchure and toneholes can be easily burned into the vine, without need for complicated tools. Being a transverse (side-blown) flute, the tambin incorporates a winged-style embouchure, which assists greatly in producing the flute's full range of 2½ octaves; these raised wings are constructed out of a locally available type of black beeswax (referred to elsewhere in the world as bee _cerumin_). The cerumin can be heated and easily molded to suit the player's needs. Due to its high propolis content, when the cerumin dries, it hardens to a solid mass and adheres to the vine.
 
 One of the biggest challenges in woodwind design and construction is the accurate placement of each tonehole to produce the desired notes and scale. The tambin is no exception. Traditional flutemakers in West Africa such as Lancine, however, accomplish this feat with surprising accuracy and consistency, without the aid of advanced measurement tools, tuners, or mathematics. Skilled artisans, they rely heavily on intuition, and often utilize nothing but their own fingers as "measuring sticks" — without paper and pen, the relationships of the instrument to their own arms and fingers are memorized, so that specific ratios can be reproduced again in future efforts. Having honed their skills with a lifetime of musical immersion, they fine-tune the pitch of their instruments by ear until the flute can sing back to them the very songs they grew up with.
 
@@ -50,52 +50,21 @@ For three years I absorbed every bit of information I could find on the subject.
 
 Unbeknownst to me, through repeated trial and error, experimentation and failure, I had been moving through a passage of initiation similar to that which brings forth a traditional flute-maker in West Africa. I was no longer _copying_ a model of a flute, as I once had as an apprentice in our hot, dusty workshop in West Africa…but learning to _create_ one. In the process, I discovered something else quite unexpected: _how to learn_. It was the most important secret that the flute had revealed to me.
 
-All in all, it took over three years of concerted effort — and relying on mathematical equations, calipers, and electronic tuners — to finally produce a flute that I thought could rival the quality and playability of the flutes made by Lancine — who still uses only the most basic tools to produce instruments of unprecedented quality.
-
-
-###Origins of the flute
-
-Discoveries such as the Hohle Fels flute provide us with valuable insight into our collective past — important for piecing together the chronology of our common story, the tale of how we all came to be. This story should be significant to anyone who cares about our future here on earth (or on any other planet we may yet inhabit), because, as we now know through the unraveling of our genetic lineage, the human story has been one continuum: we are all descendants of the same people that, some 65,000 years ago, forged their place in history when they began their trek out of Africa and, over the course of thousands of generations, settled the world. That continuum does not end with us.
-
-From the beginning, the human story has always been a social venture. We have never been alone in this world. Our ancestors walk beside us in every moment: their minds are our minds. Equally so, the future "us" walks beside us too, yet invisible but awaiting to spring forth from what we are now. It has never been truer when we say, "who we are is who we were" — and that will be equally true for people in the future. It's fascinating to think that we are ever in the process of becoming somebody's ancestors. We're writing that story, right now.
-
-What's equally intriguing, then, is exploring what the Hohle Fels flute can tell us about the minds of our ancestors, and their tendency to want to express themselves creatively and intellectually — both symbolically through art, and through the powerful act of communal music making. Along with other objects that have been uncovered from the same time period — exquisitely sculpted figurines, engraved drawings, and figurative cave paintings, to name a few — the existence of the flute in the prehistoric record is symbolic proof that the minds of the ancients were indeed capable of a high level of thought and expression, and sought to explore that capacity. These people were not intellectually idle. 
-
-Why does this matter? Because it helps us answer the question of _when_ the capacity for intellectual thought and creativity arose. This question is important because it has the opportunity to help us come to terms with the myriad different cultures that have, and still do, exist alongside our own. The problem with answering this question, though, is that we tend to use the yardstick of our own culture's achievements to measure all others, using a comparison, for example, of our own technological progress as the gauge of whether another society has succeeded in becoming fully human. This is folly. If we can accept that all people share the same genetic lineage, then we must also accept that we share the same capacity for intellectual thought, creativity, and innovation. How we express that potential is simply a matter of choice. What results from that choice _is_ culture. 
-
-This is the intellectual potential that is represented by the flash of brilliance that is the art discovered in the Hohle Fels Cave, dating back some 40,000 years — proof that this potential existed even then. It reveals something quite extraordinary about the kinds of things that became important, early on, to the development of modern humans on a fundamental level — which factored into the growth of culture itself.
-
-
-overcome our own cultural conceit that we are somehow the pinnacle of human cultural progress.
-
-
-
-
-
-
-
-
-... the birth of culture.
-collective memory.
-predicting the future
-social rules and habits
-why ancient wisdom matters in the modern world
-
-"celebrate the wonders of the human legacy"
-
-Complexity of music: Lancine teaching himself to play music. "Allah gave it to me"
-
+All in all, it took over three years of concerted effort — with reliance on mathematical equations, calipers, and electronic tuners — to finally produce a flute that I thought could rival the quality and playability of the flutes made by Lancine — who still uses only the most basic tools to create instruments of unprecedented quality.
 
 ***
 
-[do we need this stuff??]  
-The cliche notion of prehistoric cave dwellers grunting while wielding clubs gets replaced with an image of a somewhat more sophisticated lot, capable of using creative means to understand, explore, celebrate, and grieve. This is not to say that everyone was an artist, but that the capability existed — and was, in fact, used to create art (and presumably music) with an aesthetic value that could be appreciated on its own terms even today.
+Discoveries such as the Hohle Fels flute in southwestern Germany provide us with valuable insight into our collective past — important for piecing together the chronology of our common story, the tale of how we all came to be. Additionally, the survival into modern times of traditions like those exemplified by the ancient Fulani flute reveal to us that our collective story is indeed a continuum. Through the unraveling of our genetic lineage, we now know with certainty that we are all descendants of the same people that, some 65,000 years ago, ignited a historical spark when they began their trek out of Africa and, over the course of thousands of generations, settled the world. That continuum does not end with us.
 
-Some people may ask, "So what?" What connection can we draw from this ancient heritage of cultural expression to the present time? I believe it is this: that our own psyche as human beings today has been shaped by the presence of art and music for millennia, inextricable from our existence and survival on earth, since time out of mind. It is a critical part of what always did — and still does — make us who we are. To neglect it is to deny a part of ourselves. 
+From the beginning, the human story has always been a social venture. We have never been alone in this world. Our ancestors walk beside us in every moment: their minds are our minds. Equally so, the future "us" walks beside us too, awaiting to spring forth from who and what we are today. It has never been truer when we say, "who we *are* is who we *were*" — and that will be equally true for the people of the future. It's fascinating to think that we are in the process of becoming somebody's ancestors. We're writing that story, right now.
 
-Each one of us comes into the world with the inherent capability to create, and the inclination to inquire, explore, and experiment — and even fail — as part of the process of learning. So why do we see some people as being more creative than others? It's that some of us _continue to use_ that penchant for creativity more than others. Those seen as innovators were not born with more or less of a _capability_ to create, but simply _didn't stop_ using it, and were not afraid to fail in the process.
+What's equally intriguing, then, is exploring what these stories can tell us about the minds of our ancestors, and their tendency to want to express themselves creatively and intellectually — both symbolically through art, and through the powerful act of communal music making. The existence of the flute, for example, in the prehistoric record is symbolic proof that the minds of the ancients were indeed capable of a high level of thought and expression, and sought to explore that capacity. These people were not intellectually idle. 
 
+Why does all of this matter? Because it helps us answer the question of _when_ the capacity for intellectual thought and creativity arose. The problem with answering this question, though, is that we tend to use the yardstick of our own culture's achievements to measure all others, using a comparison, for instance, of our own technological progress as the gauge of whether another society has succeeded in becoming fully human. This is folly. If we can accept that all people share the same genetic lineage, then we must also accept that we share the same capacity for intellectual thought, creativity, and innovation. How we express that potential is simply a matter of choice. What results from that choice _is_ culture. 
 
+This is the intellectual potential that is represented by the artifacts discovered in the Hohle Fels Cave, dating back some 40,000 years — proof that this potential existed even then, and quite possibly long before. It reveals something quite extraordinary about the kinds of things that were then, and continue to be, of fundamental importance to humanity: the act of expressing ourselves through art, or of sharing a musical moment that will never be repeated in quite the same way ever again.
+
+As we move forward with a better understanding of our place in this grand continuum, perhaps we in the modern world can humble ourselves enough to overcome the cultural conceit that we are somehow the pinnacle of human progress. In doing so, may we become open enough to appreciate our cultural differences instead of dwell on them, and truly celebrate the wonders of the human legacy.
 
 ***
 
