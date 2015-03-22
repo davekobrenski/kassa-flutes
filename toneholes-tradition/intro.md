@@ -1,3 +1,5 @@
+#What we can learn from a 40,000 year old flute
+
 Sometime between 40,000 and 45,000 years ago, a group of early humans on a migration route out of Africa, along the corridor of the Danube River valley, carried with them a small but significant object: a flute. 
 
 Carved from the bone of a griffon vulture, with five carefully crafted finger holes, this instrument lay buried and forgotten for tens of thousands of years — until recently, when it was discovered in the cavernous halls of the Hohle Fels Cave in the Swabian Jura mountain range of southwestern Germany. 
@@ -8,9 +10,75 @@ The oldest yet of a series of similar flutes discovered in the region, the _Hohl
 
 ###Origins of the flute
 
+Discoveries such as the Hohle Fels flute provide us with valuable insight into our collective past — important for piecing together the chronology of our common story, the tale of how we all came to be. This story should be significant to anyone who cares about our future here on earth (or on any other planet we may yet inhabit), because, as we now know through the unraveling of our genetic lineage, the human story has been one continuum: we are all descendants of the same people that, some 65,000 years ago, forged their place in history when they began their trek out of Africa and, over the course of thousands of generations, settled the world.
+
+From the beginning, the human story has always been a social venture. We have never been alone in this world. Our ancestors walk beside us in every moment: their minds are our minds. Equally so, the future "us" walks beside us too, yet invisible but awaiting to spring forth from what we are now. It has never been truer when we say, "who we are is who we were" — and that will be equally true for people in the future. It's fascinating to think that we are ever in the process of becoming somebody's ancestors. We're writing that story, right now.
+
+What's equally intriguing is exploring what the Hohle Fels flute can tell us about the minds of our ancestors, and their tendency to want to express themselves creatively and intellectually — both symbolically through art, and through the powerful act of communal music making. Along with other objects that have been uncovered from the same time period — exquisitely sculpted figurines, engraved drawings, and figurative cave paintings, to name a few — the existence of the flute in the prehistoric record is symbolic proof that the minds of the ancients were indeed capable of a high level of thought and expression, and sought to explore that capacity. These people were not intellectually idle. 
+
+Why is all of this significant? Because it help us answer the question of _when_ the capacity for intellectual thought and creativity arose. This question is important because it has the opportunity to help us understand
+
+ level the playing field and help us to understand 
+
+overcome our own cultural conceit that we are somehow the pinnacle of human cultural progress.
+
+its important to realize that the capacity for intellectual thought has always existed, but culture is a matter of choice: what do we choose to do with it.
+
+The problem with answering this question is that we tend to use the yardstick of our own culture's achievements to measure all others. 
+
+— but it's folly to think that it is merely our technological achievements that define intellectual capacity. 
+
+Culture has always been about choice: what pursuit
+
+But it also reveals something about the kinds of things that became important, early on, to the development of modern humans on a fundamental level — factoring into the growth of culture itself.
+
+continuum
+
+were not intellectually idle - the same intellectual capacity
+
+"That means every single human society and culture, by definition, shares the same raw mental activity, the same intellectual capacity. And whether that raw genius is placed in service of technological wizardry or unraveling the complex thread of memory inherent in a myth is simply a matter of choice and cultural orientation"
+
+... the birth of culture.
+collective memory.
+predicting the future
+social rules and habits
+why ancient wisdom matters in the modern world
+"Race has been exposed as a total fiction; the human genetic endowment is one continuum. We are all descendants of a handful of people who’ve walked out of Africa 65,000 years ago, and in 2,500 generations settled the whole world. But if we accept that we are all cut from the same genetic cloth, all cultures share the same genius. And whether that genius is placed into technological wizardry which has been our great achievement, or, by contrast, placed into the unraveling of complex threads of memory inherent in a myth is simply a matter of choice"
+
+“These peoples, these cultures, are not failed attempts at being us — they are unique answers to the fundamental question, ‘What does it mean to be human and alive?’”
+
+"celebrate the wonders of the human legacy"
+
+and that played into the formation and growth of the subconscious mind.
+
+Music — and in particular, the flute — have long been a part of the human psyche. We know now, from radiocarbon dating of artifacts like the flute found in the Hohle Fels cave, that the flute itself is likely the oldest type of musical instrument created by humans — and that humans were making music  with it much earlier in history than previously thought. 
+
+Being such a venerable 
+
+The sound of the flute is as fundamental and elegant as wind moving through reeds, but that its voice comes from the breath of the player, invoking it to resonate with sound, gives it a certain power. It's quite magical, when you think about it: the flautist conjuring into song the vital element of air. For the ancient flutemaker, though, to be endowed with the skill to manipulate the elements of bone, wood, and air into a device capable of such magic: to the ancients, this must have been significant.
+
+It would be difficult, then, to understand human nature without attempting to understand the role that music played in the lives of our early ancestors.
+
+elegant invoke  summon conjur
+
+dynamic 
+venerable
+
+
+We know now, from radiocarbon dating of artifacts like the flute found in the Hohle Fels cave, that the flute itself is likely the oldest type of musical instrument created by humans, and that humans were making music much earlier in history than previously thought. It would be difficult, then, to understand human nature without attempting to understand the role that music played in the lives of our early ancestors.
+
+fundamental concepts for understanding human nature
+
+ 
+
+
+During my travels in remote parts of West Africa, where I researched a little-known type of native flute referred to by the locals as _tambin_  — the traditional flute of the Fulani people — 
+
 Radiocarbon dating of artifacts like the flute found in the Hohle Fels cave provides us with significant new insight into our collective past — important for piecing together the chronology of our common story, the tale of how we came to be.
 
-What intrigues me most, though, about the discovery of this instrument is what it tells us about the minds of our ancestors, and their ability to express themselves creatively — both symbolically through art, and through the powerful act of communal music making. Along with other objects that have been uncovered from the same time period — exquisitely sculpted figurines, engraved drawings, and figurative cave paintings, to name a few — the Hohle Fels flute illustrates that the minds of the ancients were indeed capable of a high level of thought and expression. But it also inspires questions about what was important to our ancestors as people: what fundamental need or yearning inspired its creation, and what thought process went into its construction? What technical knowledge did the ancient flutemaker possess, and through what methodology of observation and trial were those skills acquired?
+What intrigues me most, though, about the discovery of this instrument is what it tells us about the minds of our ancestors, and their ability to express themselves creatively — both symbolically through art, and through the powerful act of communal music making. Along with other objects that have been uncovered from the same time period — exquisitely sculpted figurines, engraved drawings, and figurative cave paintings, to name a few — the Hohle Fels flute illustrates that the minds of the ancients were indeed capable of a high level of thought and expression. But it also inspires questions about the kinds of things that were important to early modern humans on a fundamental level: at what point in our human history did art and music become an integral part of our lives? 
+
+What need or yearning inspired its creation, and what thought process went into its construction? What technical knowledge did the ancient flutemaker possess, and through what methodology of observation and trial were those skills acquired?
 
 As for the instrument's musical capabilities, specific measurements of the flute — its length, column diameter, and toneholes — can yield a good approximation of the tonal scale that it would produce, but we can only wonder about the actual music that was played on it. For what melodies was it intended? What was the effect on the listener as its songs reverberated through the ancient concert chambers of hillside caves?  While bone and rock can survive the ravages of time, a song leaves its footprint only on the minds of those who witness its performance. In many ways, this is the enigma of our past: science can only tell us so much about the moment in time represented by an artifact; the rest is left to our imagination.
 
