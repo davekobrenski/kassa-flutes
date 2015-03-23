@@ -21,7 +21,7 @@ But just to muse on it is enough. If we travel back in time in our mind's eye, w
 
 While bone and rock can survive the ravages of time, a song leaves its footprint only on the minds of those who witness its performance. In many ways, this is the enigma of our past: science can only tell us so much about the moment in time represented by an artifact; the rest is left to our imagination.
 
-***
+<p class="divider"><span class="flower db-deco"></span></p>
 
 My interest in the flutes of indigenous peoples around the world began during [my travels in West Africa][1], where I had the opportunity to study the _tambin_, the unique three-holed flute of the Fulani and Malinké people of Guinea. 
 
@@ -38,7 +38,7 @@ One of the biggest challenges in woodwind design and construction is the accurat
 
 The cumulative knowledge acquired by the traditional flutemaker through a lifetime of experimentation and training is impressive. Equally as fascinating, though, is how the simple, raw materials from which this ancient woodwind is built seem to belie the underlying complexity of the physics behind it. Adornment with leather, rope, and cowrie shells completes the aesthetic of an object which, born of the earth, carries a significance beyond its primary function. No child's toy, in the skilled hands of the _fulafola_ these enchanting flutes are capable of the finest subtleties of musical expression. That the living breath of the player awakens elements of wood and earth to resonate into sacred song gives the flutes a place in the realm of the mystical — both for those who play it, and for those who are transported by its sounds.
 
-***
+<p class="divider"><span class="flower db-deco"></span></p>
 
 Back home in the States, I wanted to see just how feasible it would be to produce my own tambin-style flute. How complicated could it be? These were, after all, essentially the same type of flute that humans had been making out of bone, wood, and ivory for literally tens of thousands of years, if not more. Without Lancine there to coach me, I quickly realized that I was in for a humbling experience.
 
@@ -50,7 +50,7 @@ Unbeknownst to me, through repeated trial and error, experimentation and failure
 
 All in all, it took over three years of concerted effort — with reliance on mathematical equations, calipers, and electronic tuners — to finally produce a flute that I thought could rival the quality and playability of the flutes made by Lancine — who still uses only the most basic tools to create instruments of unprecedented quality.
 
-***
+<p class="divider"><span class="flower db-deco"></span></p>
 
 Discoveries such as the Hohle Fels flute in southwestern Germany provide us with valuable insight into our collective past — important for piecing together the chronology of our common story, the tale of how we all came to be. Additionally, the survival into modern times of traditions like those exemplified by the ancient Fulani flute reveal to us that our collective story is indeed a continuum. Through the unraveling of our genetic lineage, we now know with certainty that we are all descendants of the same people that, some 65,000 years ago, ignited a historical spark when they began their trek out of Africa and, over the course of thousands of generations, settled the world. That continuum does not end with us.
 
