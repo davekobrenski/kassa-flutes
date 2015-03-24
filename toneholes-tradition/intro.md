@@ -38,6 +38,9 @@ One of the biggest challenges in woodwind design and construction is the accurat
 
 The cumulative knowledge acquired by the traditional flutemaker through a lifetime of experimentation and training is impressive. Equally as fascinating, though, is how the simple, raw materials from which this ancient woodwind is built seem to belie the underlying complexity of the physics behind it. Adornment with leather, rope, and cowrie shells completes the aesthetic of an object which, born of the earth, carries a significance beyond its primary function. No child's toy, in the skilled hands of the _fulafola_ these enchanting flutes are capable of the finest subtleties of musical expression. That the living breath of the player awakens elements of wood and earth to resonate into sacred song gives the flutes a place in the realm of the mystical — both for those who play it, and for those who are transported by its sounds.
 
+<img src="http://kassaflutes.com/images/fula-flutes-conakry.jpg" alt="Fula flutes on a bench in Conakry" class="img-responsive">
+<span class="img-caption">Our <em>tambin</em> flutes outside of Lanciné's workshop in Conakry, Guinea. photo by D.Kobrenski</span>
+
 <p class="divider"><span class="flower db-deco"></span></p>
 
 Back home in the States, I wanted to see just how feasible it would be to produce my own tambin-style flute. How complicated could it be? These were, after all, essentially the same type of flute that humans had been making out of bone, wood, and ivory for literally tens of thousands of years, if not more. Without Lancine there to coach me, I quickly realized that I was in for a humbling experience.
