@@ -14,7 +14,10 @@ In order to properly calculate the placement of toneholes on a flute, several va
 						<td>\( L_{eff} \)</td>
 						<td>The <strong>effective tube length</strong> associated with each desired note. This is the length the flute would be <em>theoretically</em> if it were &ldquo;uncomplicated by end corrections, toneholes, and the like&rdquo; (Hopkin, p.18). For flutes that are open at both ends (the blowhole constitutes an open end), this length is equal to the ½ the actual wavelength of the note itself.</td>
 					</tr>
-					
+					<tr>
+						<td>\( v_{sound} \)</td>
+						<td>the speed of sound in air, which varies depending on the temperature and the humidity of the air. Since our variable \( L_{eff} \) above is equal to ½ the wavelength of a given note, we need \( v_{sound} \) to be able to calculate the wavelength of that note. We&rsquo;ll calculate the speed of sound for our environment below.</td>
+					</tr>
 					<tr>
 						<td>\( A \)</td>
 						<td>The <strong>actual tube length</strong> of the desired lowest note of the flute. We use the <em>effective</em> tube length \( L_{eff} \), above, to <em>estimate</em> the actual length — but we won&rsquo;t know the <em>actual</em> length of the flute until we have reduced the flute&rsquo;s length down until it produces the correct note. We need the actual length of <em>just the lowest note</em>, however, in order to accurately position the rest of our toneholes using the <em>tonehole correction factor</em>, that we will calculate below.</td>
@@ -44,9 +47,6 @@ In order to properly calculate the placement of toneholes on a flute, several va
 						<td>\( s \)</td>
 						<td>the distance between \( L_{eff} \) for the hole in question and \( L_{eff} \) for the next hole below (or the entire tube in the case of the first open hole)</td>
 					</tr>
-					<tr>
-						<td>\( v_{sound} \)</td>
-						<td>the speed of sound in air, which varies depending on the temperature and the humidity of the air. We&rsquo;ll calculate this below.</td>
-					</tr>
+					
 				</tbody>
 			</table>
