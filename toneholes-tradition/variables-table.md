@@ -44,5 +44,9 @@ In order to properly calculate the placement of toneholes on a flute, several va
 						<td>\( s \)</td>
 						<td>the distance between \( L_{eff} \) for the hole in question and \( L_{eff} \) for the next hole below (or the entire tube in the case of the first open hole)</td>
 					</tr>
+					<tr>
+						<td>\( v_{sound} \)</td>
+						<td>the speed of sound in air, which varies depending on the temperature and the humidity of the air. We&rsquo;ll calculate this below.</td>
+					</tr>
 				</tbody>
 			</table>
