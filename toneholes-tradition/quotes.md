@@ -2,6 +2,8 @@ During their migration from Africa into Europe as early as 40,000 years ago, our
 
 The essence of the flute is as fundamental as wind moving through reeds, but its unique power comes from the fact that what gives it voice is the living breath of the player, invoking it to resonate with sound.
 
+For the ancient flutemaker, though, to be endowed with the skill to manipulate elements of bone, wood, and air into a device capable of such magic: to the ancients, we can surmise, this must have been significant.
+
 The diameter and length of the tube, the size and shape of the mouthpiece, and even the size of the toneholes in relation to their placement along the tube are just a few important factors to consider when building even the most basic of flutes. In short, constructing a playable flute is no simple business.
 
 In many ways, this is the enigma of our past: science can only tell us so much about the moment in time represented by an artifact; the rest is left to our imagination.
