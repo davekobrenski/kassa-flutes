@@ -18,7 +18,7 @@ In order to properly calculate the placement of toneholes on a flute, several va
 					</tr>
 					<tr>
 						<td>\( v_{sound} \)</td>
-						<td>the speed of sound in air, which varies depending on the temperature and the humidity of the air. Since our variable \( L_{eff} \) above is equal to ½ the wavelength of a given note, we need \( v_{sound} \) to be able to calculate the wavelength of that note. (We&rsquo;ll automatically calculate the speed of sound for our environment below.)</td>
+						<td>the <strong>speed of sound</strong> in air, which varies depending on the temperature and the humidity of the air. Since our variable \( L_{eff} \) above is equal to ½ the wavelength of a given note, we need \( v_{sound} \) to be able to calculate the wavelength of that note. (We&rsquo;ll automatically calculate the speed of sound for our environment below.)</td>
 					</tr>
 					<tr>
 						<td>\( A \)</td>
