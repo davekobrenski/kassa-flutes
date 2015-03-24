@@ -4,6 +4,8 @@ While this “electronic worksheet” is the result of honing my process with ma
 
 [1]:http://windworld.com/products-page/books-cds/air-columns-and-toneholes-principles-for-wind-instrument-design/
 
+##Background Information
+
 ###Variables
 
 In order to properly calculate the placement of toneholes on a flute, several variables come into play. They are:
