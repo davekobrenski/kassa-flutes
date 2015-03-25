@@ -2,7 +2,8 @@ What follows is a series of tools and charts I’ve developed over the course of
 
 While this “electronic worksheet” is the result of honing my process with many dozens of flutes, the concepts and equations are based largely on those outlined in Bart Hopkin’s [Air Columns and Toneholes: Principles for Wind Instrument Design][1] — a fabulous resource for aspiring flutemakers and enthusiasts alike. That resource has proven to be invaluable to me numerous times as I searched for answers as to why a particular flute was slightly off, or while continuously striving to improve upon a prior prototype. I share the below information in the hopes that it may be of some benefit (or at least some interest) to someone else out there embarking on a similar path.
 
-(If you know what you're doing and want _just_ the tools with no background information, [click here][2].)
+<p class="highlight-text bg-info">
+<i class="fa fa-question-circle"></i> (If you know what you're doing and want _just_ the tools with no background information, [click here][2].)</p>
 
 [1]:http://windworld.com/products-page/books-cds/air-columns-and-toneholes-principles-for-wind-instrument-design/
 [2]:flute-calc
