@@ -17,7 +17,7 @@ As such, the discovery of the Hohle Fels flute becomes interesting in what it su
 
 The debate may never be fully resolved, but it's becoming clearer that early humans strove to instill meaning into their daily lives that went beyond mere survival. Furthermore, in catching this rare glimpse of the unfolding of culture itself, we can see that the evolutionary roots of music go deep indeed. So deep, that many scientists now believe that music played a crucial role in the development of the human mind itself. This gives weight to the idea that musical intelligence is a *feature* of the human brain, hard-wired into us, and not just a gift given to a chosen few. While most people would agree that living without music would be unpleasant, the truth may be that we would simply not have evolved to become *us* without it.
 
-<p class="divider"><span class="flower db-deco"></span><hr></p>
+<hr class="sr-only"><p class="divider"><span class="flower db-deco"></span></p>
 
 One thing that has always fascinated me about music is the way that it can simultaneously appeal to both the emotional and analytical components of our minds. On the one hand, sound has the ability to affect us on a very primal level, but the components of music -- frequency, harmony, rhythm -- can also be understood from the viewpoint of mathematics and physics. While the emotional factor is what drew me to making music, it was the analytical component that led me to instrument making. A musical instrument can be both aesthetically beautiful and mathematically exact. These features are not mutually exclusive; rather, it is their synthesis that serves the whole. The nature of their coexistence reveals something about what we perceive to be beautiful.
 
@@ -35,7 +35,7 @@ While bone and rock can survive the ravages of time, a song leaves its footprint
 
 > In many ways, this is the enigma of our past: science can only tell us so much about the moment in time represented by an artifact; the rest is left to our imagination.
 
-<p class="divider"><span class="flower db-deco"></span><hr></p>
+<hr class="sr-only"><p class="divider"><span class="flower db-deco"></span></p>
 
 My interest in the flutes of indigenous peoples around the world began during [my travels in West Africa][1], where I had the opportunity to study the _tambin_, the unique three-holed flute of the Fulani and Malinké people of Guinea. 
 
@@ -57,7 +57,7 @@ The cumulative knowledge acquired by the traditional flutemaker through a lifeti
 <img src="https://kassaflutes.com/images/fula-flutes-conakry.jpg" alt="Fula flutes on a bench in Conakry" class="img-responsive">
 <span class="img-caption">Our <em>tambin</em> flutes outside of Lanciné's workshop in Conakry, Guinea. photo by D.Kobrenski</span>
 
-<p class="divider"><span class="flower db-deco"></span><hr></p>
+<hr class="sr-only"><p class="divider"><span class="flower db-deco"></span></p>
 
 Back home in the States, I wanted to see just how feasible it would be to produce my own tambin-style flute. How complicated could it be? These were, after all, essentially the same type of flute that humans had been making out of bone, wood, and ivory for literally tens of thousands of years, if not more. Without Lancine there to coach me, I quickly realized that I was in for a humbling experience.
 
@@ -71,7 +71,7 @@ Unbeknownst to me, through repeated trial and error, experimentation and failure
 
 All in all, it took over three years of concerted effort -- with reliance on mathematical equations, calipers, and electronic tuners -- to finally produce a flute that I thought could rival the quality and playability of the flutes made by Lancine -- who still uses only the most basic tools to create instruments of unprecedented quality.
 
-<p class="divider"><span class="flower db-deco"></span><hr></p>
+<hr class="sr-only"><p class="divider"><span class="flower db-deco"></span></p>
 
 Discoveries such as the Hohle Fels flute in southwestern Germany provide us with valuable insight into our collective past -- important for piecing together the chronology of our common story, the tale of how we all came to be. Additionally, the survival into modern times of traditions like those exemplified by the ancient Fulani flute reveal to us that our collective story is indeed a continuum. Through the unraveling of our genetic lineage, we now know with certainty that we are all descendants of the same people that, some 65,000 years ago, ignited a historical spark when they began their trek out of Africa and, over the course of thousands of generations, settled the world. That continuum does not end with us.
 
