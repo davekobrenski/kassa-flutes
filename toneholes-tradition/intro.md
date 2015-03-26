@@ -35,6 +35,8 @@ But just to muse on it is enough. If we travel back in time in our mind's eye, w
 
 While bone and rock can survive the ravages of time, a song leaves its footprint only on the minds of those who witness its performance. In many ways, this is the enigma of our past: science can only tell us so much about the moment in time represented by an artifact; the rest is left to our imagination.
 
+> In many ways, this is the enigma of our past: science can only tell us so much about the moment in time represented by an artifact; the rest is left to our imagination.
+
 <p class="divider"><span class="flower db-deco"></span></p>
 
 My interest in the flutes of indigenous peoples around the world began during [my travels in West Africa][1], where I had the opportunity to study the _tambin_, the unique three-holed flute of the Fulani and Malinké people of Guinea. 
