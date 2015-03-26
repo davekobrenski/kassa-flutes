@@ -4,7 +4,7 @@ Carved from the bone of a griffon vulture, with five carefully crafted finger ho
 
 The oldest yet of a series of similar flutes found in the region — which represent the oldest known musical instruments in the world — the _Hohle Fels flute_ sheds light on the lives and cultural innovations of early humans. One thing, in particular, is worth emphasizing: during their migration from Africa into Europe as early as 40,000 years ago, our ancestors were already making music.
 
-<img src="http://kassaflutes.com/images/ancient-flute.jpg" alt="Ancient flute" class="img-responsive">
+<img src="https://kassaflutes.com/images/ancient-flute.jpg" alt="Ancient flute" class="img-responsive">
 <span class="img-caption">Jensen/University of Tubingen</span>
 
 Music, then — and in particular, the flute — have long been a part of the human psyche. From radiocarbon dating of artifacts like the flute found in the Hohle Fels cave, we know that the flute itself is likely the oldest _type_ of musical instrument created by humans — and that humans were making music with it much earlier in history than previously thought.
@@ -29,7 +29,7 @@ My interest in the flutes of indigenous peoples around the world began during [m
 
 Constructed from a woody vine that is the flute's namesake, the tambin — or _Fula Flute_ — likely originated with the Fulani people — one of the most widely dispersed ethnic groups in Africa, and the largest pastoral nomadic group in the world. The Fulani today live throughout West and Central Africa, with much of their population concentrated in the Fouta Djallon highlands of Guinea. Fulani culture dates back to at least the Neolithic era, with the most notable evidence of this being the resplendent treasury of rock art discovered in the Tassili n'Ajjer mountain range in Algeria — containing over 15,000 unique engravings and dating back to 6000 BC. 
 
-<img src="http://kassaflutes.com/images/Tassili-Algeria.jpg" alt="Tassili Desert Algeria" class="img-responsive">
+<img src="https://kassaflutes.com/images/Tassili-Algeria.jpg" alt="Tassili Desert Algeria" class="img-responsive">
 <span class="img-caption">"Tassili Desert Algeria" by <a href="http://www.flickr.com/photos/magharebia/5323128313/" target="_blank">magharebia</a>. Licensed under CC BY 2.0 via <a href="http://commons.wikimedia.org/wiki/File:Tassili_Desert_Algeria.jpg#/media/File:Tassili_Desert_Algeria.jpg" target="_blank">Wikimedia Commons</a></span>
 
 Across a half-dozen or so trips to Guinea, I was able to learn from several _fulafolas_ — masters of the _Fula flute_. In addition to studying much of the tambin's repertoire, I learned the traditional building techniques of this ancient flute from a Malinké man hailing from the Kouroussa region of Guinea, in a small village tucked away on a bend of the Niger River. His name was Lancine Conde. Under his tutelage, I became his "little brother", and with more patience than I often deserved, he imparted his knowledge to me.
@@ -42,7 +42,7 @@ One of the biggest challenges in woodwind design and construction is the accurat
 
 The cumulative knowledge acquired by the traditional flutemaker through a lifetime of experimentation and training is impressive. Equally as fascinating, though, is how the simple, raw materials from which this ancient woodwind is built seem to belie the underlying complexity of the physics behind it. Adornment with leather, rope, and cowrie shells completes the aesthetic of an object which, born of the earth, carries a significance beyond its primary function. No child's toy, in the skilled hands of the _fulafola_ these enchanting flutes are capable of the finest subtleties of musical expression. That the living breath of the player awakens elements of wood and earth to resonate into sacred song gives the flutes a place in the realm of the mystical — both for those who play it, and for those who are transported by its sounds.
 
-<img src="http://kassaflutes.com/images/fula-flutes-conakry.jpg" alt="Fula flutes on a bench in Conakry" class="img-responsive">
+<img src="https://kassaflutes.com/images/fula-flutes-conakry.jpg" alt="Fula flutes on a bench in Conakry" class="img-responsive">
 <span class="img-caption">Our <em>tambin</em> flutes outside of Lanciné's workshop in Conakry, Guinea. photo by D.Kobrenski</span>
 
 <p class="divider"><span class="flower db-deco"></span></p>
