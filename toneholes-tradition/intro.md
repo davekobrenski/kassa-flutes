@@ -17,7 +17,9 @@ As such, the discovery of the Hohle Fels flute becomes interesting in what it su
 
 The debate may never be fully resolved, but it's becoming clearer that early humans strove to instill meaning into their daily lives that went beyond mere survival. Furthermore, in catching this rare glimpse into the unfolding of culture itself, we can see that the evolutionary roots of music go deep indeed. So deep, that many scientists now believe that music played a crucial role in the development of the human mind itself. This gives weight to the idea that musical intelligence is a *feature* of the human brain, hard-wired into us, and not just a gift given to a chosen few. While most people would agree that living without music would be unpleasant, the truth may be that we would simply not have evolved to *become us* without it.
 
-<hr class="sr-only"><p class="divider"><span class="flower db-deco"></span></p>
+<hr class="sr-only">
+
+<p class="divider"><span class="flower db-deco"></span></p>
 
 One thing that has always fascinated me about music is the way that it can simultaneously appeal to both the emotional and analytical components of our minds. On the one hand, sound has the ability to affect us on a very primal level, but the components of music -- frequency, harmony, rhythm -- can also be understood from the viewpoint of mathematics and physics. While the emotional factor is what drew me to music-making, it was this added analytical component that led me to instrument making. A musical instrument can be both aesthetically beautiful and mathematically exact. These features are not mutually exclusive; rather, it is their synthesis that serves the whole. The nature of their coexistence reveals something about what we perceive to be beautiful.
 
