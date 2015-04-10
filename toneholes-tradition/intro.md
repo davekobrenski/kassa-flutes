@@ -75,7 +75,7 @@ For three years I absorbed every bit of information I could find on the subject.
 
 Without realizing it, through repeated trial and error, experimentation and failure, I had been moving through a passage of initiation similar to that which brings forth a traditional flute-maker in West Africa. With time, I was no longer _copying_ a model of a flute, as I once had as an apprentice in our hot, dusty workshop in West Africa…but learning to _create_ one. In the process, I discovered something else quite unexpected: _how to learn_. It was the most important secret that the flute had revealed to me.
 
-All in all, it took over three years of concerted effort -- with reliance on mathematical equations, calipers, and electronic tuners -- to finally produce a flute that I thought could rival the quality and playability of the flutes made by Lancine -- who still uses only the most basic tools to create instruments of unprecedented quality.
+All in all, it took over three years of concerted effort, relying on mathematical equations, calipers, and electronic tuners, to finally produce a flute that I thought could rival the quality and playability of the flutes made by Lancine -- who still uses only the most basic tools to create instruments of unprecedented quality.
 
 <hr class="sr-only">
 
