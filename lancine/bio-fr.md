@@ -24,5 +24,5 @@ En 2008, son groupe bénéficiera encore d'un nouveau contrat au Mali ou il déc
 
 En 2009, son groupe bénéficiera d'un autre contrat au Burkina Faso, le groupe a décroché également le premier prix de cet évènement. 
 
-De Ià jusque maintenant Lanciné évolue dans ce groupe (les percussions de Kouroussa), il fabrique les flûtes, II les commercialise, il a des élèves en Europe qui viennent à la fin de chaque année pour bénéficier de ses cours. 
+De Ià jusque maintenant Lanciné évolue dans ce groupe (les percussions de Kouroussa), il fabrique les flûtes, il les commercialise, il a des élèves en Europe qui viennent à la fin de chaque année pour bénéficier de ses cours. 
 
