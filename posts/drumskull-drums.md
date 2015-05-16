@@ -6,10 +6,6 @@ It gives us great pride, then, to announce a partnership with another shop that 
 
 DrumSkull Drums will be carrying a selection of Fula flutes made by the Kassa Flute Co. You can check out their current selection online here: [www.drumskulldrums.com][drumskull], or if you're in the Santa Cruz area, [drop by their shop][location].
 
-<p class="divider"><span class="flower db-deco"></span></p>
-
-## About DrumSkull Drums
-
 <img src="/images/drumskull.jpg" alt="DrumSkull Drums" class="img-responsive">
 <span class="img-caption">DrumSkull Drums</span>
 
