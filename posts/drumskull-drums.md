@@ -2,16 +2,16 @@ We are very pleased to announce that a selection of high-quality Fula flutes mad
 
 Here at the Kassa Flute Co., we are committed to high standards of quality and craftsmanship. These standards, combined with our passion for the music of West Africa, drive us to constantly push ourselves to make the very best Fula flutes -- flutes that are both beautiful to look at and a joy to play. In doing so, we strive to honor our teachers in West Africa as well as the [ancient tradition of flutemaking][article].
 
-> It gives us great pride, then, to announce a partnership with another shop that shares those commitments to quality and cultural respect: [DrumSkull Drums][drumskull], located in Santa Cruz, California. 
+It gives us great pride, then, to announce a partnership with another shop that shares those commitments to quality and cultural respect: [DrumSkull Drums][drumskull], located in Santa Cruz, California. 
 
 DrumSkull Drums will be carrying a selection of Fula flutes made by the Kassa Flute Co. You can check out their current selection online here: [www.drumskulldrums.com][drumskull], or if you're in the Santa Cruz area, [drop by their shop][location].
 
+<p class="divider"><span class="flower db-deco"></span></p>
+
 ## About DrumSkull Drums
 
-<img src="drumskull.jpg" alt="DrumSkull Drums" class="img-responsive">
+<img src="/images/drumskull.jpg" alt="DrumSkull Drums" class="img-responsive">
 <span class="img-caption">DrumSkull Drums</span>
-
-<p class="divider"><span class="flower db-deco"></span></p>
 
 **From the DrumSkull website:**
 
