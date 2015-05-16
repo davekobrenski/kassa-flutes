@@ -15,7 +15,9 @@ DrumSkull Drums will be carrying a selection of Fula flutes made by the Kassa Fl
 
 <hr>
 
-<img src="/images/drumskull.jpg" alt="DrumSkull Drums" class="img-responsive">
+##About DrumSkull Drums
+
+<a href="http://www.drumskulldrums.com/en2/21/Shop_Drumskull.php?ProdCatID=5" target="_blank"><img src="/images/drumskull.jpg" alt="DrumSkull Drums" class="img-responsive"></a>
 
 **From the DrumSkull website:**
 
