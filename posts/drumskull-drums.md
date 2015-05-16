@@ -27,7 +27,7 @@ DrumSkull Drums will be carrying a selection of Fula flutes made by the Kassa Fl
 
 "For years, Drumskulls have sought to set a new standard in the market of African instruments. Although music consciousness is on the rise, in truth, it is quite disheartening to see the hoards of low quality tourist imports that still get sold as authentic instruments. As you go further into this web site, we hope our difference in quality is obvious to you. Our meticulous efforts are well represented by our custom designed rope, our individually fitted rings, and our hand picked wood, shells, and skins. We believe our drums to be the finest anywhere! We hope that you will be inspired by this site, and that you too will join us in our endeavor to support and spread the music of Africa."
 
-More info: [www.drumskulldrums.com](http://www.drumskulldrums.com)
+<p class="highlight-text bg-info"><i class="fa fa-info-circle"></i> For more information, visit the DrumSkull Drums website here: <a href="http://www.drumskulldrums.com" target="_blank">www.drumskulldrums.com</a></p>
 
 [drumskull]: http://www.drumskulldrums.com/en2/21/Shop_Drumskull.php?ProdCatID=5
 [location]: http://www.drumskulldrums.com/en2/4/contact_us.php
