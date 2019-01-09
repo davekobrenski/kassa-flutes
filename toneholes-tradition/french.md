@@ -47,7 +47,7 @@ Mon intérêt pour les flûtes des peuples autochtones du monde entier a commenc
 Construit à partir d’une vigne ligneuse dont la flûte porte le nom, le tambin -- ou _flûte foula_ -- tire son origine du peuple Peul, l’un des groupes ethniques les plus dispersés en Afrique et le plus grand groupe pastoral de nomade au monde. Les Peuls vivent aujourd'hui dans toute l'Afrique occidentale et centrale, et une grande partie de leur population est concentrée dans les hauts plateaux du Fouta Djalon en Guinée. La culture peule remonte au moins à l’ère néolithique. La preuve la plus remarquable en est le trésor resplendissant de l’art rupestre découvert dans la chaîne de montagnes du Tassili Al-Ajjer en Algérie, contenant plus de 15 000 gravures uniques datant de 6000 ans av J.-C. 
 
 <img src="https://kassaflutes.com/images/Tassili-Algeria.jpg" alt="Tassili Desert Algeria" class="img-responsive">
-<span class="img-caption">"Tassili Desert Algeria" by <a href="http://www.flickr.com/photos/magharebia/5323128313/" target="_blank">magharebia</a>. Licensed under CC BY 2.0 via <a href="http://commons.wikimedia.org/wiki/File:Tassili_Desert_Algeria.jpg#/media/File:Tassili_Desert_Algeria.jpg" target="_blank">Wikimedia Commons</a></span>
+<span class="img-caption">"Tassili Desert Algeria" par <a href="http://www.flickr.com/photos/magharebia/5323128313/" target="_blank">magharebia</a>. Licence CC 2.0 de <a href="http://commons.wikimedia.org/wiki/File:Tassili_Desert_Algeria.jpg#/media/File:Tassili_Desert_Algeria.jpg" target="_blank">Wikimedia Commons</a></span>
 
 Au cours d'environ une demi-douzaine de voyages en Guinée, j'ai pu apprendre de plusieurs fulafolas, maîtres de la flûte Peule. En plus d’étudier une grande partie du répertoire du tambin, j’ai appris les techniques de fabrication traditionnelles de cette ancienne flûte par un homme Malinké originaire de la région de Kouroussa en Guinée. Il s'appelait Lancine Conde. Dans un petit village niché dans un méandre du fleuve Niger, je suis devenu le « petit frère » de Lancine. Avec plus de patience que j’en ai souvent mérité, il m’a transmis ses connaissances.
 
@@ -60,7 +60,7 @@ L'un des plus grands défis de la conception et de la construction des instrumen
 Les connaissances cumulées acquises par le fabricant de flûte traditionnel au cours d’une vie d’expérimentation et de formation sont impressionnantes. De façon tout aussi fascinante, cependant, les matériaux simples et bruts à partir desquels cet ancien instrument à vent est construit semblent démentir la complexité sous-jacente de la physique qui le constitue. La parure de cuir, de corde et de cauris complète l'esthétique d'un objet qui, né de la terre, porte une signification qui dépasse sa fonction première. Ce n’est pas un jouet pour enfant, entre les mains habiles du _fulafola_, ces flûtes enchanteresses sont capables des plus subtiles expressions musicales. Que le souffle vivant du joueur réveille les éléments bois et terre pour résonner en chant sacré, donne aux flûtes une place dans le royaume du mystique -- à la fois pour ceux qui le jouent et pour ceux qui sont transportés par ses sons.
 
 <img src="https://kassaflutes.com/images/fula-flutes-conakry.jpg" alt="Fula flutes on a bench in Conakry" class="img-responsive">
-<span class="img-caption">Nos flutes <em>tambin</em> à l'atelier de Lanciné, à Conakry, Guinea. photo par D.Kobrenski</span>
+<span class="img-caption">Nos flutes <em>tambins</em> à l'atelier de Lanciné, à Conakry, Guinea. photo par D.Kobrenski</span>
 
 <hr class="sr-only">
 
