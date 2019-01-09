@@ -60,7 +60,7 @@ L'un des plus grands défis de la conception et de la construction des instrumen
 Les connaissances cumulées acquises par le fabricant de flûte traditionnel au cours d’une vie d’expérimentation et de formation sont impressionnantes. De façon tout aussi fascinante, cependant, les matériaux simples et bruts à partir desquels cet ancien instrument à vent est construit semblent démentir la complexité sous-jacente de la physique qui le constitue. La parure de cuir, de corde et de cauris complète l'esthétique d'un objet qui, né de la terre, porte une signification qui dépasse sa fonction première. Ce n’est pas un jouet pour enfant, entre les mains habiles du _fulafola_, ces flûtes enchanteresses sont capables des plus subtiles expressions musicales. Que le souffle vivant du joueur réveille les éléments bois et terre pour résonner en chant sacré, donne aux flûtes une place dans le royaume du mystique -- à la fois pour ceux qui le jouent et pour ceux qui sont transportés par ses sons.
 
 <img src="https://kassaflutes.com/images/fula-flutes-conakry.jpg" alt="Fula flutes on a bench in Conakry" class="img-responsive">
-<span class="img-caption">Our <em>tambin</em> flutes outside of Lanciné's workshop in Conakry, Guinea. photo by D.Kobrenski</span>
+<span class="img-caption">Nos flutes <em>tambin</em> à l'atelier de Lanciné, à Conakry, Guinea. photo par D.Kobrenski</span>
 
 <hr class="sr-only">
 
