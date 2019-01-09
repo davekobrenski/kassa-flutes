@@ -97,7 +97,7 @@ Les artefacts découverts dans la grotte Hohle Fels, datant d'environ 40 000 ans
 Quelle leçon pouvons-nous tirer de tout cela pour nous guider lorsque nous gravons notre place dans le continuum de l'histoire humaine ? C’est peut-être que, malgré l’incroyable diversité de pensées et d’expressions existant dans le monde entier, nous les êtres humains, sommes plus semblables que nous ne sommes différents. Le domaine de la génétique nous a montré que l'ADN de tous les êtres humains en vie aujourd'hui est semblable à 99,9%, annulant ainsi la notion de race qui nous divise depuis si longtemps. De plus, les découvertes effectuées le long du corridor de migration du Danube montrent que la capacité intellectuelle et créative nécessaire pour la création de cultures diverses a toujours fait partie de ce que signifie être humain. Ces marques vénérables de l'expérience humaine sont un héritage qu'il convient de célébrer et de soutenir, peu importe l'endroit où elles se trouvent -- car nous ne sommes qu'une famille.
 
 *Dave Kobrenski*  
-  April 10, 2015
+  9 janvier 2019
 
 
 [1]:http://www.davekobrenski.com/djoliba-crossing/
