@@ -1,4 +1,4 @@
-Il y a entre 40 000 et 45 000 ans environ, un groupe d’hommes primitifs migrant depuis l'Afrique, sur le long du couloir de la vallée du Danube, emportait avec eux un objet petit mais important : une flûte.
+<p class="lead">Il y a entre 40 000 et 45 000 ans environ, un groupe d’hommes primitifs migrant depuis l'Afrique, sur le long du couloir de la vallée du Danube, emportait avec eux un objet petit mais important : une flûte.</p>
 
 Taillé dans l'os d'un vautour fauve et percé de cinq trous pour les doigts soigneusement creusés, cet instrument est resté enterré et oublié pendant des dizaines de milliers d'années, jusqu'à ce qu’on le découvre récemment, dans les salles caverneuses de la grotte de Hohle Fels, dans la chaîne de montagne du Jura souabe dans le sud-ouest de l'Allemagne. La découverte met en lumière un détail important concernant la vie de nos ancêtres : lors de leur migration d'Afrique vers l’Europe, il y a 40 000 ans déjà, nos ancêtres faisaient de la musique.
 
